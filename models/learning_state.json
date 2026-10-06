@@ -1,0 +1,14 @@
+{
+  "weights": {},
+  "temperature": 1.0,
+  "hardness_alpha": 0.5,
+  "half_life_days": 540.0,
+  "learners": [
+    "logreg",
+    "hgb",
+    "xgb",
+    "lgbm",
+    "cat"
+  ],
+  "history": []
+}
