@@ -1,26 +1,5 @@
 {
- "pulled": [
-  "Herre Handbold Ligaen 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Starligue 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Bundesliga 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "NB I 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "REMA 1000-ligaen 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Superliga 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Liga ASOBAL 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Handbollsligan 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Champions League 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "EHF European League 2026: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Herre Handbold Ligaen 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Starligue 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Bundesliga 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "NB I 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "REMA 1000-ligaen 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Superliga 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Liga ASOBAL 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Handbollsligan 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "Champions League 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)",
-  "EHF European League 2025: not on this plan (Free plans do not have access to this season, try from 2022 to 2024.)"
- ],
+ "pulled": [],
  "skipped": [
   "(103, 2022)",
   "(103, 2023)",
@@ -47,6 +26,6 @@
   "(78, 2023)",
   "(78, 2024)"
  ],
- "requests_left": 1,
+ "requests_left": 0,
  "stopped": "daily budget reached; run again tomorrow to continue"
 }

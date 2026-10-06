@@ -10,5 +10,11 @@
     "lgbm",
     "cat"
   ],
-  "history": []
+  "history": [
+    {
+      "at": "2026-10-06 18:42:26.966337",
+      "action": "update_skipped",
+      "reason": "only 0 graded predictions (need 150)"
+    }
+  ]
 }
