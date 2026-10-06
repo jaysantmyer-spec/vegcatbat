@@ -61,6 +61,24 @@ class PlanLimited(RuntimeError):
     """The free plan refuses some seasons ('try from 2022 to 2024')."""
 
 
+PLAN_JSON = config.DATA / "plan_limits.json"
+
+
+def plan_seasons() -> tuple[int | None, int | None]:
+    """(min, max) season the plan allows for whole-season queries, learned from the API's own error text."""
+    if PLAN_JSON.exists():
+        d = json.loads(PLAN_JSON.read_text())
+        return d.get("min"), d.get("max")
+    return None, None
+
+
+def _remember_plan(msg: str) -> None:
+    m = re.search(r"from\s+(\d{4})\s+to\s+(\d{4})", msg)
+    if m:
+        config.ensure_dirs()
+        PLAN_JSON.write_text(json.dumps({"min": int(m.group(1)), "max": int(m.group(2)), "message": msg}))
+
+
 # --------------------------------------------------------------------------- HTTP
 def get(endpoint: str, retries: int = 3, **params) -> dict:
     key = config.api_key()
@@ -81,6 +99,7 @@ def get(endpoint: str, retries: int = 3, **params) -> dict:
             errs = payload.get("errors")
             if errs and (isinstance(errs, dict) and errs or isinstance(errs, list) and errs):
                 if isinstance(errs, dict) and "plan" in errs:
+                    _remember_plan(str(errs["plan"]))
                     raise PlanLimited(str(errs["plan"]))
                 raise RuntimeError(f"API error: {errs}")
             tag = re.sub(r"[^A-Za-z0-9]+", "_", f"{endpoint}_{'_'.join(f'{k}{v}' for k, v in params.items())}")
@@ -205,10 +224,13 @@ def backfill(seasons_back: int | None = None, progress=None) -> dict:
                 done.add((lid, s))
     out = {"pulled": [], "skipped": sorted(map(str, done)), "requests_left": requests_left()}
     todo = []
+    lo_s, hi_s = plan_seasons()
     for lid, grp in sel.groupby("league_id"):
         seasons = sorted(grp["season"].dropna().unique(), reverse=True)[:seasons_back]
         for s in seasons:
-            if (lid, s) not in done:
+            if hi_s is not None and (s > hi_s or (lo_s is not None and s < lo_s)):
+                continue                                   # whole-season query refused on this plan; the daily
+            if (lid, s) not in done:                       # date pulls cover the current season instead
                 todo.append((int(lid), int(s), grp["league"].iloc[0]))
     todo.sort(key=lambda t: -t[1])
     for i, (lid, s, name) in enumerate(todo):

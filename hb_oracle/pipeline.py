@@ -160,11 +160,16 @@ def relearn(state: dict | None = None, min_graded: int = 150) -> dict:
 def run_cycle(progress=None, scrape: bool = True, odds: bool = True) -> dict:
     out = {}
     if scrape:
-        from .api import update
+        from .api import update, backfill
         try:
             out["update"] = update()
         except Exception as ex:
             out["update"] = f"failed: {ex}"
+        try:                                              # any history still missing (budget ran out earlier)
+            bf = backfill()
+            out["backfill"] = {"pulled": bf.get("pulled"), "stopped": bf.get("stopped")}
+        except Exception as ex:
+            out["backfill"] = f"failed: {ex}"
     if odds:
         try:
             from .odds import snapshot_odds
