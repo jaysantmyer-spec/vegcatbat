@@ -24,17 +24,17 @@ API_DAILY_BUDGET = int(os.environ.get("HB_API_BUDGET", "95"))
 
 # Leagues to follow: (country regex, league-name regex). Resolved to API ids by `python -m hb_oracle leagues`.
 # Override with HB_LEAGUE_IDS="39,78,..." once data/leagues.csv shows the ids you want.
-LEAGUE_PATTERNS = [
-    ("Germany", r"^(HBL|Bundesliga|.*Handball-Bundesliga)$"),
-    ("France", r"^(Starligue|LNH|Division 1|D1)"),
-    ("Denmark", r"^(Handboldligaen|H[åa]ndboldligaen|HTH Ligaen|Herre H[åa]ndbold Ligaen)"),
-    ("Spain", r"^(Liga ASOBAL|ASOBAL)"),
-    ("Poland", r"^(Superliga|PGNiG Superliga|Orlen Superliga)"),
-    ("Hungary", r"^(NB I|Nemzeti Bajnoks)"),
-    ("Sweden", r"^(Handbollsligan|Elitserien)"),
-    ("Norway", r"^(Eliteserien|REMA 1000-ligaen)"),
-    ("World|Europe|International", r"^(EHF )?Champions League$"),
-    ("World|Europe|International", r"^(EHF )?European League$"),
+LEAGUE_PATTERNS = [   # men's top flights that DraftKings / the market price; ids from data/leagues.csv
+    ("Germany", r"^Bundesliga$"),                       # 39
+    ("France", r"^Starligue$"),                         # 34
+    ("Denmark", r"^Herre Handbold Ligaen$"),            # 23
+    ("Spain", r"^Liga ASOBAL$"),                        # 103
+    ("Poland", r"^Superliga$"),                         # 78
+    ("Hungary", r"^NB I$"),                             # 49
+    ("Sweden", r"^Handbollsligan$"),                    # 113
+    ("Norway", r"^REMA 1000-ligaen$"),                  # 75
+    ("Europe", r"^Champions League$"),                  # 131
+    ("Europe", r"^EHF European League$"),               # 145
 ]
 SEASONS_BACK = int(os.environ.get("HB_SEASONS_BACK", "4"))   # seasons of history per league in the backfill
 HORIZON_DAYS = 3                                              # fixtures predicted this far ahead

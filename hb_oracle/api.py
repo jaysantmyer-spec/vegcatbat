@@ -57,6 +57,10 @@ class BudgetExhausted(RuntimeError):
     pass
 
 
+class PlanLimited(RuntimeError):
+    """The free plan refuses some seasons ('try from 2022 to 2024')."""
+
+
 # --------------------------------------------------------------------------- HTTP
 def get(endpoint: str, retries: int = 3, **params) -> dict:
     key = config.api_key()
@@ -76,12 +80,14 @@ def get(endpoint: str, retries: int = 3, **params) -> dict:
             payload = r.json()
             errs = payload.get("errors")
             if errs and (isinstance(errs, dict) and errs or isinstance(errs, list) and errs):
+                if isinstance(errs, dict) and "plan" in errs:
+                    raise PlanLimited(str(errs["plan"]))
                 raise RuntimeError(f"API error: {errs}")
             tag = re.sub(r"[^A-Za-z0-9]+", "_", f"{endpoint}_{'_'.join(f'{k}{v}' for k, v in params.items())}")
             config.ensure_dirs()
             (config.RAW / f"api_{tag}.json").write_text(json.dumps(payload)[:2_000_000])
             return payload
-        except BudgetExhausted:
+        except (BudgetExhausted, PlanLimited):
             raise
         except Exception as ex:
             last = ex
@@ -159,7 +165,11 @@ def _parse_game(g: dict) -> dict | None:
 
 def fetch_games(**params) -> pd.DataFrame:
     payload = get("games", timezone="UTC", **params)
-    rows = [r for r in (_parse_game(g) for g in payload.get("response", [])) if r]
+    games = list(payload.get("response", []))
+    total = int((payload.get("paging") or {}).get("total") or 1)
+    for page in range(2, min(total, 20) + 1):
+        games += get("games", timezone="UTC", page=page, **params).get("response", [])
+    rows = [r for r in (_parse_game(g) for g in games) if r]
     df = pd.DataFrame(rows, columns=MATCH_COLS)
     return df[~df["status"].isin(VOID)]
 
@@ -213,6 +223,8 @@ def backfill(seasons_back: int | None = None, progress=None) -> dict:
         except BudgetExhausted as ex:
             out["stopped"] = str(ex)
             break
+        except PlanLimited as ex:
+            out["pulled"].append(f"{name} {s}: not on this plan ({ex})")
         except Exception as ex:
             out["pulled"].append(f"{name} {s}: FAILED {ex}")
     out["requests_left"] = requests_left()
@@ -231,6 +243,9 @@ def update(days_back: int = 1, days_ahead: int | None = None) -> dict:
             df = fetch_games(date=day)
         except BudgetExhausted as ex:
             out["stopped"] = str(ex)
+            break
+        except PlanLimited as ex:
+            out["stopped"] = f"plan: {ex}"
             break
         if sel_ids:
             df = df[df["league_id"].isin(sel_ids)]
