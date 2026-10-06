@@ -30,7 +30,7 @@ def _token() -> str | None:
             t = st.secrets.get("GITHUB_TOKEN")
         except Exception:
             t = None
-    return t or None
+    return (t or "").strip() or None
 
 
 def _repo() -> str:

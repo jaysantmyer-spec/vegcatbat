@@ -84,7 +84,7 @@ def odds_api_key() -> str | None:
             k = st.secrets.get("ODDS_API_KEY")
         except Exception:
             k = None
-    return k or None
+    return (k or "").strip() or None
 
 
 # --------------------------------------------------------------------------- The Odds API

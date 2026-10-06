@@ -63,7 +63,7 @@ def api_key() -> str | None:
             k = st.secrets.get("API_SPORTS_KEY")
         except Exception:
             k = None
-    return k or None
+    return (k or "").strip() or None
 
 
 def ensure_dirs() -> None:

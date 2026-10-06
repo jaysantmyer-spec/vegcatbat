@@ -4,11 +4,22 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import requests
 from hb_oracle import config, api
 
+class _Scrub:
+    """stdout/stderr wrapper that never lets a key through."""
+    def __init__(self, w): self.w = w
+    def write(self, t):
+        for k in (os.getenv("API_SPORTS_KEY"), os.getenv("ODDS_API_KEY"), os.getenv("GITHUB_TOKEN")):
+            if k and k.strip():
+                t = t.replace(k.strip(), "<key>")
+        self.w.write(t)
+    def flush(self): self.w.flush()
+sys.stdout, sys.stderr = _Scrub(sys.stdout), _Scrub(sys.stderr)
+
 print("API_SPORTS_KEY set:", bool(os.getenv("API_SPORTS_KEY")), "len", len(os.getenv("API_SPORTS_KEY") or ""))
 print("ODDS_API_KEY set:", bool(os.getenv("ODDS_API_KEY")))
 for ep in ("status", "leagues"):
     try:
-        r = requests.get(f"{config.API_BASE}/{ep}", headers={"x-apisports-key": os.getenv("API_SPORTS_KEY", "")}, timeout=30)
+        r = requests.get(f"{config.API_BASE}/{ep}", headers={"x-apisports-key": config.api_key() or ""}, timeout=30)
         print(f"\n== GET /{ep}: HTTP {r.status_code}")
         txt = r.text
         print(txt[:1500])
@@ -35,7 +46,7 @@ try:
     lg = api.store.read(config.LEAGUES_CSV); sel = api.selected_leagues(lg)
     if not sel.empty:
         row = sel.sort_values("season", ascending=False).iloc[0]
-        r = requests.get(f"{config.API_BASE}/games", headers={"x-apisports-key": os.getenv("API_SPORTS_KEY", "")},
+        r = requests.get(f"{config.API_BASE}/games", headers={"x-apisports-key": config.api_key() or ""},
                          params={"league": int(row["league_id"]), "season": int(row["season"]), "timezone": "UTC"}, timeout=30)
         d = r.json(); resp = d.get("response", [])
         print("HTTP", r.status_code, "results", d.get("results"), "errors", d.get("errors"))
