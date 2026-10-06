@@ -1,0 +1,28 @@
+name: probe (API diagnostics -> data/probe.txt)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: data
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Probe
+        run: python scripts/probe.py > data/probe.txt 2>&1 || true
+      - name: Commit
+        run: |
+          git config user.name "hb-oracle-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data
+          git commit -m "probe $(date -u +'%Y-%m-%d %H:%M')" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push
