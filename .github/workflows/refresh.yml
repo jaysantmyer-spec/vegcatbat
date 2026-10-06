@@ -1,0 +1,36 @@
+name: refresh (results, odds, learn, predict)
+on:
+  schedule:
+    - cron: "23 */6 * * *"     # every 6 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: data
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      HB_LEAGUE_IDS: ${{ vars.HB_LEAGUE_IDS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Update data, grade, learn, retrain, predict (odds twice a day to stay inside the free plan)
+        run: |
+          H=$(date -u +%H)
+          if [ "$H" -lt 6 ] || { [ "$H" -ge 12 ] && [ "$H" -lt 18 ]; }; then python -m hb_oracle cycle; else python -m hb_oracle cycle --no-odds; fi
+      - name: Weekly backtest (Monday's first run)
+        run: |
+          if [ "$(date +%u)" = "1" ] && [ "$(date +%H)" -lt 6 ]; then python -m hb_oracle backtest --days 180 || true; fi
+      - name: Commit data
+        run: |
+          git config user.name "hb-oracle-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data models
+          git commit -m "refresh $(date -u +'%Y-%m-%d %H:%M')" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push

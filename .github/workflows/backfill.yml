@@ -1,0 +1,44 @@
+name: backfill history (run once, re-run if the daily API budget stopped it)
+on:
+  workflow_dispatch:
+    inputs:
+      seasons:
+        description: "seasons of history per league"
+        default: "4"
+permissions:
+  contents: write
+concurrency: data
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      HB_LEAGUE_IDS: ${{ vars.HB_LEAGUE_IDS }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: Resolve leagues
+        run: python -m hb_oracle leagues
+      - name: Pull history
+        run: python -m hb_oracle backfill --seasons ${{ github.event.inputs.seasons }}
+      - name: Fixtures, odds, train, backtest, predict
+        run: |
+          python -m hb_oracle update || true
+          python -m hb_oracle odds || true
+          python -m hb_oracle train || echo "not enough data to train yet"
+          python -m hb_oracle backtest --days 180 || true
+          python -m hb_oracle predict || true
+      - name: Keep raw API samples for inspection
+        run: mkdir -p data/samples && for f in data/raw/api_leagues.json data/raw/api_games_*; do [ -f "$f" ] && head -c 60000 "$f" > "data/samples/$(basename $f)"; done; ls data/samples || true
+      - name: Commit data
+        run: |
+          git config user.name "hb-oracle-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data models
+          git commit -m "backfill $(date -u +'%Y-%m-%d %H:%M')" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push
