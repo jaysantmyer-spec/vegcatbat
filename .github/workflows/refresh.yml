@@ -25,7 +25,7 @@ jobs:
           if [ "$H" -lt 6 ] || { [ "$H" -ge 12 ] && [ "$H" -lt 18 ]; }; then python -m hb_oracle cycle; else python -m hb_oracle cycle --no-odds; fi
       - name: Weekly backtest (Monday's first run)
         run: |
-          if [ "$(date +%u)" = "1" ] && [ "$(date +%H)" -lt 6 ]; then python -m hb_oracle backtest --days 180 || true; fi
+          if [ "$(date +%u)" = "1" ] && [ "$(date +%H)" -lt 6 ]; then python -m hb_oracle backtest --days 240 || true; fi
       - name: Commit data
         run: |
           git config user.name "hb-oracle-bot"

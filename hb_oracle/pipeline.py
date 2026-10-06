@@ -254,6 +254,16 @@ def summarize(bt: pd.DataFrame) -> dict:
     return s
 
 
+def dense_end(feat: pd.DataFrame, min_games_per_week: int = 15) -> pd.Timestamp:
+    """Last date with a normal volume of finished games, so a backtest window isn't wasted on the thin
+    current period (the free API plan serves whole seasons only up to 2024; the current season fills in
+    day by day)."""
+    fin = feat[feat["finished"].astype(bool)]
+    wk = fin.groupby(fin["start_time"].dt.to_period("W")).size()
+    good = wk[wk >= min_games_per_week]
+    return (good.index[-1].end_time if len(good) else fin["start_time"].max()).floor("D")
+
+
 def calibration_table(bt: pd.DataFrame) -> pd.DataFrame:
     d = bt[bt["y"].notna()]
     pick = np.maximum(d["p_a"], 1 - d["p_a"])

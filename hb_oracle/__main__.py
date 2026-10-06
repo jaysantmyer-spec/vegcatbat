@@ -61,7 +61,8 @@ def main():
                   if not P.empty else "no upcoming games")
     elif a.cmd == "backtest":
         feat = pipeline.features_now()
-        end = feat[feat["finished"].astype(bool)]["start_time"].max()
+        end = pipeline.dense_end(feat)
+        print("backtest window ends", end.date(), "(last period with normal game volume)")
         bt_df = pipeline.walk_forward(feat, end - pd.Timedelta(days=a.days), end, step_days=a.step,
                                       adaptive=not a.static, progress=_p)
         store.write(bt_df, config.BACKTEST_CSV)

@@ -24,8 +24,8 @@ from . import config, store
 
 log = logging.getLogger(__name__)
 
-FINISHED = {"FT", "AOT", "AP"}                       # full time, after overtime, after penalties
-VOID = {"CANC", "PST", "POST", "ABD", "INTR", "WO", "AWD"}
+FINISHED = {"FT", "AOT", "AET", "AP", "AP."}                       # full time, after overtime, after penalties
+VOID = {"CANC", "PST", "POST", "ABD", "INTR", "WO", "AWD", "AW"}
 LIVE = {"1H", "HT", "2H", "ET", "BT", "PT", "LIVE"}
 
 MATCH_COLS = ["match_id", "date", "start_time", "league_id", "league", "country", "season", "round",
@@ -228,6 +228,8 @@ def backfill(seasons_back: int | None = None, progress=None) -> dict:
         except Exception as ex:
             out["pulled"].append(f"{name} {s}: FAILED {ex}")
     out["requests_left"] = requests_left()
+    config.ensure_dirs()
+    (config.DATA / "backfill_log.json").write_text(json.dumps(out, indent=1, default=str))
     return out
 
 

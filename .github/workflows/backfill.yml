@@ -30,7 +30,7 @@ jobs:
           python -m hb_oracle update || true
           python -m hb_oracle odds || true
           python -m hb_oracle train || echo "not enough data to train yet"
-          python -m hb_oracle backtest --days 180 || true
+          python -m hb_oracle backtest --days 240 || true
           python -m hb_oracle predict || true
       - name: Keep raw API samples for inspection
         run: mkdir -p data/samples && for f in data/raw/api_leagues.json data/raw/api_games_*; do [ -f "$f" ] && head -c 60000 "$f" > "data/samples/$(basename $f)"; done; ls data/samples || true
