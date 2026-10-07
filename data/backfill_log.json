@@ -1,5 +1,7 @@
 {
- "pulled": [],
+ "pulled": [
+  "EHF European League 2024: 168 games"
+ ],
  "skipped": [
   "(103, 2022)",
   "(103, 2023)",
@@ -26,6 +28,5 @@
   "(78, 2023)",
   "(78, 2024)"
  ],
- "requests_left": 0,
- "stopped": "daily budget reached; run again tomorrow to continue"
+ "requests_left": 90
 }

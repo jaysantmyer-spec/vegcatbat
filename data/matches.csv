@@ -5081,24 +5081,201 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 142290,2023-05-28,2023-05-28 13:30:00,145,EHF European League,Europe,2022,European League - 3rd place,Montpellier,Goppingen,248,316,29.0,33.0,17.0,16.0,FT,True,away
 142291,2023-05-28,2023-05-28 16:00:00,145,EHF European League,Europe,2022,European League - Final,Fuchse Berlin,Granollers,315,966,36.0,31.0,16.0,12.0,FT,True,home
 202352,2026-10-06,2026-10-06 15:00:00,49,NB I,Hungary,2026,5,Szeged,Csurgoi,417,409,36.0,26.0,20.0,17.0,FT,True,home
-199129,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Mors,Tatabanya,173,418,34.0,33.0,20.0,16.0,2H,False,
+199129,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Mors,Tatabanya,173,418,35.0,33.0,20.0,16.0,FT,True,home
 199145,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Wybrzeze Gdansk,Eurofarm Pelister,695,1157,31.0,31.0,16.0,17.0,FT,True,draw
 199161,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Slovan,Valur,939,477,34.0,29.0,20.0,12.0,FT,True,home
 199172,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,CSM Bucuresti,Chambery Savoie,826,251,25.0,33.0,14.0,17.0,FT,True,away
 199186,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Bergischer,Savehof,312,1046,29.0,25.0,16.0,11.0,FT,True,home
 199190,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Kadetten Schaffhausen,Izvidac,4178,54,42.0,30.0,23.0,11.0,FT,True,home
 199201,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Hammarby,Nexe,1039,81,30.0,28.0,16.0,15.0,FT,True,home
-199118,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Flensburg-H.,777,314,,,,,NS,False,
-199133,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Maritimo,CD Bidasoa Irun,4406,964,,,,,NS,False,
-199137,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,La Rioja,Gummersbach,968,339,,,,,NS,False,
-199149,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Karvina,972,110,,,,,NS,False,
-199154,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Presov,85,908,,,,,NS,False,
-199155,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,St. Raphael,Elverum,259,636,,,,,NS,False,
-199199,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Holstebro,Benfica,179,782,,,,,NS,False,
-199208,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Granollers,Buzau,966,824,,,,,NS,False,
-199212,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,FH Hafnarfjordur,Limoges,468,256,,,,,NS,False,
+199118,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Flensburg-H.,777,314,22.0,36.0,10.0,18.0,FT,True,away
+199133,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Maritimo,CD Bidasoa Irun,4406,964,40.0,32.0,20.0,13.0,FT,True,home
+199137,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,La Rioja,Gummersbach,968,339,30.0,34.0,16.0,17.0,FT,True,away
+199149,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Karvina,972,110,33.0,32.0,17.0,14.0,FT,True,home
+199154,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Presov,85,908,36.0,36.0,19.0,18.0,FT,True,draw
+199155,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,St. Raphael,Elverum,259,636,32.0,36.0,15.0,20.0,FT,True,away
+199199,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Holstebro,Benfica,179,782,32.0,31.0,15.0,15.0,FT,True,home
+199208,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Granollers,Buzau,966,824,37.0,31.0,20.0,11.0,FT,True,home
+199212,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,FH Hafnarfjordur,Limoges,468,256,33.0,46.0,16.0,27.0,FT,True,away
 198487,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Partizan,Veszprem,4238,4616,,,,,NS,False,
 198533,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Kristianstad,GOG,1041,178,,,,,NS,False,
 198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,,,,,NS,False,
 198479,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,PSG,Celje,4484,929,,,,,NS,False,
 198541,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,Kielce,SC Magdeburg,4252,328,,,,,NS,False,
+198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,,,,,NS,False,
+198512,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,Fuchse Berlin,Porto,315,778,,,,,NS,False,
+194975,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Rhein-Neckar,Eisenach,327,335,,,,,NS,False,
+194976,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Stuttgart,HSG Wetzlar,329,318,,,,,NS,False,
+197660,2026-10-08,2026-10-08 18:00:00,34,Starligue,France,2026,6,Provence Aix,Saran,4858,245,,,,,NS,False,
+198489,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Skanderborg AGF,Montpellier,4429,248,,,,,NS,False,
+198497,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Vardar 1961,Wisla Plock,1162,694,,,,,NS,False,
+198521,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Barcelona,Din. Bucuresti,962,829,,,,,NS,False,
+198529,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,MT Melsungen,Nantes,324,257,,,,,NS,False,
+164728,2024-08-31,2024-08-31 12:00:00,145,EHF European League,Europe,2024,European League - Final,Bjerringbro/Silkeborg,Ferencvaros,176,412,45.0,27.0,22.0,14.0,FT,True,home
+164721,2024-08-31,2024-08-31 13:00:00,145,EHF European League,Europe,2024,European League - Final,Kristianstad,Granollers,1041,966,29.0,32.0,13.0,15.0,FT,True,away
+164722,2024-08-31,2024-08-31 14:00:00,145,EHF European League,Europe,2024,European League - Final,Ystads IF,Maritimo,1048,4406,39.0,31.0,16.0,15.0,FT,True,home
+164723,2024-08-31,2024-08-31 14:00:00,145,EHF European League,Europe,2024,European League - Final,Mors,Gummersbach,173,339,22.0,35.0,10.0,17.0,FT,True,away
+164719,2024-08-31,2024-08-31 16:00:00,145,EHF European League,Europe,2024,European League - Final,ABC Braga,Ademar,779,957,23.0,21.0,14.0,10.0,FT,True,home
+164727,2024-08-31,2024-08-31 16:00:00,145,EHF European League,Europe,2024,European League - Final,HC Kriens,Zurich,1063,1070,37.0,31.0,19.0,18.0,FT,True,home
+164724,2024-08-31,2024-08-31 16:30:00,145,EHF European League,Europe,2024,European League - Final,MT Melsungen,Elverum,324,636,28.0,23.0,13.0,12.0,FT,True,home
+164725,2024-08-31,2024-08-31 17:30:00,145,EHF European League,Europe,2024,European League - Final,Trimo Trebnje,Limoges,942,256,32.0,28.0,16.0,10.0,FT,True,home
+164726,2024-08-31,2024-08-31 17:30:00,145,EHF European League,Europe,2024,European League - Final,Valur,Vinkovci,477,89,34.0,25.0,13.0,16.0,FT,True,home
+164720,2024-09-01,2024-09-01 15:00:00,145,EHF European League,Europe,2024,European League - Final,Karvina,Izvidac,110,54,33.0,22.0,18.0,12.0,FT,True,home
+164738,2024-09-06,2024-09-06 18:00:00,145,EHF European League,Europe,2024,European League - Final,Maritimo,Ystads IF,4406,1048,35.0,33.0,15.0,16.0,FT,True,home
+164735,2024-09-07,2024-09-07 15:00:00,145,EHF European League,Europe,2024,European League - Final,Granollers,Kristianstad,966,1041,30.0,28.0,15.0,15.0,FT,True,home
+164737,2024-09-07,2024-09-07 15:00:00,145,EHF European League,Europe,2024,European League - Final,Elverum,MT Melsungen,636,324,31.0,36.0,16.0,17.0,FT,True,away
+164729,2024-09-07,2024-09-07 16:00:00,145,EHF European League,Europe,2024,European League - Final,Zurich,HC Kriens,1070,1063,38.0,34.0,16.0,18.0,FT,True,home
+164730,2024-09-07,2024-09-07 17:00:00,145,EHF European League,Europe,2024,European League - Final,Vinkovci,Valur,89,477,32.0,24.0,19.0,10.0,FT,True,home
+164731,2024-09-07,2024-09-07 17:00:00,145,EHF European League,Europe,2024,European League - Final,Limoges,Trimo Trebnje,256,942,35.0,24.0,17.0,11.0,FT,True,home
+164732,2024-09-07,2024-09-07 17:00:00,145,EHF European League,Europe,2024,European League - Final,Izvidac,Karvina,54,110,32.0,26.0,19.0,13.0,FT,True,home
+164734,2024-09-08,2024-09-08 14:30:00,145,EHF European League,Europe,2024,European League - Final,Gummersbach,Mors,339,173,39.0,30.0,20.0,16.0,FT,True,home
+164736,2024-09-08,2024-09-08 16:00:00,145,EHF European League,Europe,2024,European League - Final,Ferencvaros,Bjerringbro/Silkeborg,412,176,34.0,32.0,16.0,18.0,FT,True,home
+164733,2024-09-08,2024-09-08 18:00:00,145,EHF European League,Europe,2024,European League - Final,Ademar,ABC Braga,957,779,31.0,27.0,15.0,12.0,FT,True,home
+171927,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Flensburg-H.,Sesvete,314,85,42.0,25.0,21.0,17.0,FT,True,home
+171928,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Gorenje,GOG,931,178,35.0,35.0,17.0,17.0,FT,True,draw
+171929,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Kadetten Schaffhausen,Benfica,4178,782,25.0,26.0,12.0,15.0,FT,True,away
+171932,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Toulouse,FH Hafnarfjordur,260,468,37.0,30.0,18.0,16.0,FT,True,home
+173542,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,HC Kriens,Ademar,1063,957,34.0,30.0,17.0,16.0,FT,True,home
+173543,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Tatabanya,Karvina,418,110,28.0,27.0,16.0,10.0,FT,True,home
+173544,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,Gummersbach,Savehof,339,1046,37.0,35.0,18.0,16.0,FT,True,home
+173545,2024-10-08,2024-10-08 16:45:00,145,EHF European League,Europe,2024,1,CSM Constanta,Ystads IF,4118,1048,29.0,29.0,13.0,16.0,FT,True,draw
+171926,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,CD Bidasoa Irun,Chrobry Glogow,964,685,33.0,33.0,15.0,17.0,FT,True,draw
+171930,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Kiel,Torrelavega,321,972,32.0,27.0,18.0,14.0,FT,True,home
+171931,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Nexe,Vojvodina,81,899,35.0,36.0,19.0,19.0,FT,True,away
+173546,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Limoges,Presov,256,908,31.0,24.0,15.0,12.0,FT,True,home
+173547,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Montpellier,Bjerringbro/Silkeborg,248,176,40.0,26.0,23.0,13.0,FT,True,home
+173548,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Porto,MT Melsungen,778,324,24.0,29.0,10.0,16.0,FT,True,away
+173549,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Vardar 1961,Valur,1162,477,33.0,26.0,19.0,11.0,FT,True,home
+173550,2024-10-08,2024-10-08 18:45:00,145,EHF European League,Europe,2024,1,Zabrze,Granollers,696,966,32.0,36.0,15.0,21.0,FT,True,away
+171933,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Sesvete,Tatabanya,85,418,27.0,31.0,14.0,17.0,FT,True,away
+171934,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Vojvodina,Kiel,899,321,28.0,32.0,15.0,18.0,FT,True,away
+171936,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Savehof,Toulouse,1046,260,31.0,37.0,11.0,18.0,FT,True,away
+171937,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Chrobry Glogow,CSM Constanta,685,4118,37.0,33.0,18.0,17.0,FT,True,home
+171938,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Presov,Kadetten Schaffhausen,908,4178,30.0,39.0,15.0,23.0,FT,True,away
+173551,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Ystads IF,CD Bidasoa Irun,1048,964,23.0,29.0,14.0,13.0,FT,True,away
+173552,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,MT Melsungen,Vardar 1961,324,1162,34.0,18.0,17.0,10.0,FT,True,home
+173553,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,Granollers,Montpellier,966,248,24.0,28.0,11.0,14.0,FT,True,away
+173554,2024-10-15,2024-10-15 16:45:00,145,EHF European League,Europe,2024,2,GOG,HC Kriens,178,1063,39.0,36.0,19.0,14.0,FT,True,home
+173555,2024-10-15,2024-10-15 18:15:00,145,EHF European League,Europe,2024,2,Valur,Porto,477,778,27.0,27.0,9.0,16.0,FT,True,draw
+171935,2024-10-15,2024-10-15 18:45:00,145,EHF European League,Europe,2024,2,Torrelavega,Nexe,972,81,32.0,32.0,14.0,11.0,FT,True,draw
+173556,2024-10-15,2024-10-15 18:45:00,145,EHF European League,Europe,2024,2,Ademar,Gorenje,957,931,32.0,24.0,14.0,10.0,FT,True,home
+173557,2024-10-15,2024-10-15 18:45:00,145,EHF European League,Europe,2024,2,Benfica,Limoges,782,256,37.0,31.0,20.0,16.0,FT,True,home
+173558,2024-10-15,2024-10-15 18:45:00,145,EHF European League,Europe,2024,2,Bjerringbro/Silkeborg,Zabrze,176,696,30.0,26.0,15.0,13.0,FT,True,home
+173559,2024-10-15,2024-10-15 18:45:00,145,EHF European League,Europe,2024,2,Karvina,Flensburg-H.,110,314,31.0,41.0,11.0,24.0,FT,True,away
+173560,2024-10-15,2024-10-15 20:30:00,145,EHF European League,Europe,2024,2,FH Hafnarfjordur,Gummersbach,468,339,21.0,40.0,12.0,19.0,FT,True,away
+171939,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,CSM Constanta,CD Bidasoa Irun,4118,964,35.0,30.0,17.0,15.0,FT,True,home
+171941,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Flensburg-H.,Tatabanya,314,418,44.0,27.0,22.0,13.0,FT,True,home
+173561,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Ystads IF,Chrobry Glogow,1048,685,36.0,30.0,18.0,15.0,FT,True,home
+173562,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Granollers,Bjerringbro/Silkeborg,966,176,36.0,27.0,16.0,19.0,FT,True,home
+173563,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Gummersbach,Toulouse,339,260,33.0,26.0,16.0,15.0,FT,True,home
+173564,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Karvina,Sesvete,110,85,32.0,29.0,17.0,16.0,FT,True,home
+173565,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,Gorenje,HC Kriens,931,1063,27.0,33.0,14.0,19.0,FT,True,away
+173566,2024-10-22,2024-10-22 16:45:00,145,EHF European League,Europe,2024,3,GOG,Ademar,178,957,36.0,23.0,20.0,11.0,FT,True,home
+171940,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,FH Hafnarfjordur,Savehof,468,1046,34.0,30.0,15.0,18.0,FT,True,home
+171942,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Nexe,Kiel,81,321,26.0,35.0,14.0,17.0,FT,True,away
+171943,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Presov,Benfica,908,782,16.0,24.0,6.0,9.0,FT,True,away
+171944,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Vardar 1961,Porto,1162,778,22.0,26.0,12.0,10.0,FT,True,away
+171945,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Vojvodina,Torrelavega,899,972,31.0,30.0,14.0,10.0,FT,True,home
+171946,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Zabrze,Montpellier,696,248,23.0,27.0,8.0,12.0,FT,True,away
+173567,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,Limoges,Kadetten Schaffhausen,256,4178,27.0,31.0,16.0,13.0,FT,True,away
+173568,2024-10-22,2024-10-22 18:45:00,145,EHF European League,Europe,2024,3,MT Melsungen,Valur,324,477,36.0,21.0,17.0,10.0,FT,True,home
+171949,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Tatabanya,Flensburg-H.,418,314,29.0,39.0,15.0,21.0,FT,True,away
+171950,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Savehof,FH Hafnarfjordur,1046,468,30.0,26.0,16.0,13.0,FT,True,home
+171954,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Benfica,Presov,782,908,36.0,23.0,22.0,12.0,FT,True,home
+173569,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Toulouse,Gummersbach,260,339,31.0,30.0,14.0,15.0,FT,True,home
+173570,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Sesvete,Karvina,85,110,38.0,23.0,17.0,13.0,FT,True,home
+173571,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Kadetten Schaffhausen,Limoges,4178,256,29.0,39.0,14.0,18.0,FT,True,away
+173572,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,HC Kriens,Gorenje,1063,931,30.0,25.0,15.0,12.0,FT,True,home
+173573,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Chrobry Glogow,Ystads IF,685,1048,27.0,38.0,12.0,18.0,FT,True,away
+173574,2024-10-29,2024-10-29 17:45:00,145,EHF European League,Europe,2024,4,Bjerringbro/Silkeborg,Granollers,176,966,35.0,32.0,20.0,15.0,FT,True,home
+171947,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Porto,Vardar 1961,778,1162,37.0,24.0,17.0,10.0,FT,True,home
+171948,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Torrelavega,Vojvodina,972,899,26.0,33.0,8.0,16.0,FT,True,away
+171951,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Montpellier,Zabrze,248,696,30.0,25.0,15.0,9.0,FT,True,home
+171952,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Kiel,Nexe,321,81,31.0,28.0,15.0,12.0,FT,True,home
+171953,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,CD Bidasoa Irun,CSM Constanta,964,4118,37.0,25.0,20.0,13.0,FT,True,home
+173575,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Ademar,GOG,957,178,21.0,27.0,12.0,16.0,FT,True,away
+173576,2024-10-29,2024-10-29 19:45:00,145,EHF European League,Europe,2024,4,Valur,MT Melsungen,477,324,28.0,33.0,15.0,16.0,FT,True,away
+171958,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,Sesvete,Flensburg-H.,85,314,28.0,32.0,14.0,15.0,FT,True,away
+171959,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,GOG,Gorenje,178,931,31.0,21.0,16.0,11.0,FT,True,home
+173577,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,Ystads IF,CSM Constanta,1048,4118,38.0,29.0,20.0,18.0,FT,True,home
+173578,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,Presov,Limoges,908,256,21.0,34.0,10.0,17.0,FT,True,away
+173579,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,Gummersbach,FH Hafnarfjordur,339,468,32.0,24.0,16.0,10.0,FT,True,home
+173582,2024-11-19,2024-11-19 17:45:00,145,EHF European League,Europe,2024,5,Granollers,Zabrze,966,696,41.0,30.0,20.0,13.0,FT,True,home
+171955,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Vojvodina,Nexe,899,81,31.0,26.0,18.0,11.0,FT,True,home
+171956,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Toulouse,Savehof,260,1046,30.0,33.0,15.0,13.0,FT,True,away
+171957,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Torrelavega,Kiel,972,321,30.0,33.0,15.0,19.0,FT,True,away
+171960,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Chrobry Glogow,CD Bidasoa Irun,685,964,28.0,35.0,10.0,17.0,FT,True,away
+171961,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Benfica,Kadetten Schaffhausen,782,4178,39.0,32.0,20.0,14.0,FT,True,home
+173580,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Ademar,HC Kriens,957,1063,30.0,31.0,14.0,13.0,FT,True,away
+173581,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Bjerringbro/Silkeborg,Montpellier,176,248,22.0,34.0,12.0,15.0,FT,True,away
+173583,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Karvina,Tatabanya,110,418,31.0,31.0,17.0,18.0,FT,True,draw
+173584,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,MT Melsungen,Porto,324,778,32.0,27.0,15.0,13.0,FT,True,home
+173585,2024-11-19,2024-11-19 19:45:00,145,EHF European League,Europe,2024,5,Valur,Vardar 1961,477,1162,34.0,34.0,18.0,17.0,FT,True,draw
+171962,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,CSM Constanta,Chrobry Glogow,4118,685,26.0,32.0,12.0,18.0,FT,True,away
+171964,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,Kadetten Schaffhausen,Presov,4178,908,39.0,26.0,21.0,10.0,FT,True,home
+171965,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,Kiel,Vojvodina,321,899,37.0,35.0,21.0,15.0,FT,True,home
+171967,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,Tatabanya,Sesvete,418,85,28.0,25.0,16.0,10.0,FT,True,home
+173586,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,Limoges,Benfica,256,782,36.0,28.0,17.0,11.0,FT,True,home
+173587,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,Savehof,Gummersbach,1046,339,25.0,28.0,10.0,14.0,FT,True,away
+173588,2024-11-26,2024-11-26 17:45:00,145,EHF European League,Europe,2024,6,HC Kriens,GOG,1063,178,32.0,30.0,13.0,12.0,FT,True,home
+171963,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,FH Hafnarfjordur,Toulouse,468,260,25.0,29.0,7.0,14.0,FT,True,away
+171966,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Nexe,Torrelavega,81,972,27.0,27.0,13.0,16.0,FT,True,draw
+173589,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,CD Bidasoa Irun,Ystads IF,964,1048,35.0,32.0,17.0,16.0,FT,True,home
+173590,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Flensburg-H.,Karvina,314,110,36.0,33.0,20.0,15.0,FT,True,home
+173591,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Gorenje,Ademar,931,957,28.0,25.0,14.0,10.0,FT,True,home
+173592,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Montpellier,Granollers,248,966,34.0,25.0,15.0,17.0,FT,True,home
+173593,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Porto,Valur,778,477,37.0,29.0,17.0,18.0,FT,True,home
+173594,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Vardar 1961,MT Melsungen,1162,324,32.0,30.0,17.0,17.0,FT,True,home
+173595,2024-11-26,2024-11-26 19:45:00,145,EHF European League,Europe,2024,6,Zabrze,Bjerringbro/Silkeborg,696,176,25.0,25.0,11.0,12.0,FT,True,draw
+174312,2025-02-11,2025-02-11 17:45:00,145,EHF European League,Europe,2024,1,Granollers,GOG,966,178,36.0,36.0,18.0,17.0,FT,True,draw
+174313,2025-02-11,2025-02-11 17:45:00,145,EHF European League,Europe,2024,1,Gummersbach,Flensburg-H.,339,314,31.0,36.0,19.0,18.0,FT,True,away
+174314,2025-02-11,2025-02-11 17:45:00,145,EHF European League,Europe,2024,1,Montpellier,HC Kriens,248,1063,31.0,27.0,16.0,15.0,FT,True,home
+174315,2025-02-11,2025-02-11 17:45:00,145,EHF European League,Europe,2024,1,Ystads IF,Limoges,1048,256,32.0,36.0,14.0,16.0,FT,True,away
+174316,2025-02-11,2025-02-11 19:45:00,145,EHF European League,Europe,2024,1,Toulouse,Tatabanya,260,418,35.0,28.0,18.0,14.0,FT,True,home
+174317,2025-02-11,2025-02-11 19:45:00,145,EHF European League,Europe,2024,1,CD Bidasoa Irun,Benfica,964,782,28.0,27.0,13.0,15.0,FT,True,home
+174318,2025-02-11,2025-02-11 19:45:00,145,EHF European League,Europe,2024,1,Porto,Vojvodina,778,899,29.0,20.0,14.0,9.0,FT,True,home
+174319,2025-02-11,2025-02-11 19:45:00,145,EHF European League,Europe,2024,1,MT Melsungen,Kiel,324,321,26.0,26.0,14.0,13.0,FT,True,draw
+174320,2025-02-18,2025-02-18 17:45:00,145,EHF European League,Europe,2024,2,Flensburg-H.,Toulouse,314,260,34.0,34.0,19.0,18.0,FT,True,draw
+174321,2025-02-18,2025-02-18 17:45:00,145,EHF European League,Europe,2024,2,GOG,Montpellier,178,248,33.0,27.0,17.0,10.0,FT,True,home
+174322,2025-02-18,2025-02-18 17:45:00,145,EHF European League,Europe,2024,2,HC Kriens,Granollers,1063,966,43.0,42.0,26.0,22.0,FT,True,home
+174323,2025-02-18,2025-02-18 17:45:00,145,EHF European League,Europe,2024,2,Tatabanya,Gummersbach,418,339,29.0,44.0,13.0,23.0,FT,True,away
+174327,2025-02-18,2025-02-18 17:45:00,145,EHF European League,Europe,2024,2,Benfica,Ystads IF,782,1048,36.0,31.0,18.0,14.0,FT,True,home
+174324,2025-02-18,2025-02-18 19:45:00,145,EHF European League,Europe,2024,2,Vojvodina,MT Melsungen,899,324,29.0,36.0,17.0,18.0,FT,True,away
+174325,2025-02-18,2025-02-18 19:45:00,145,EHF European League,Europe,2024,2,Limoges,CD Bidasoa Irun,256,964,32.0,31.0,15.0,17.0,FT,True,home
+174326,2025-02-18,2025-02-18 19:45:00,145,EHF European League,Europe,2024,2,Kiel,Porto,321,778,32.0,22.0,14.0,12.0,FT,True,home
+174328,2025-02-25,2025-02-25 17:45:00,145,EHF European League,Europe,2024,3,Gummersbach,Tatabanya,339,418,33.0,27.0,16.0,16.0,FT,True,home
+174329,2025-02-25,2025-02-25 17:45:00,145,EHF European League,Europe,2024,3,Toulouse,Flensburg-H.,260,314,35.0,35.0,17.0,19.0,FT,True,draw
+174330,2025-02-25,2025-02-25 17:45:00,145,EHF European League,Europe,2024,3,Ystads IF,Benfica,1048,782,37.0,33.0,17.0,16.0,FT,True,home
+174331,2025-02-25,2025-02-25 19:45:00,145,EHF European League,Europe,2024,3,MT Melsungen,Vojvodina,324,899,26.0,26.0,15.0,16.0,FT,True,draw
+174332,2025-02-25,2025-02-25 19:45:00,145,EHF European League,Europe,2024,3,Porto,Kiel,778,321,30.0,35.0,15.0,17.0,FT,True,away
+174333,2025-02-25,2025-02-25 19:45:00,145,EHF European League,Europe,2024,3,Montpellier,GOG,248,178,30.0,28.0,17.0,14.0,FT,True,home
+174334,2025-02-25,2025-02-25 19:45:00,145,EHF European League,Europe,2024,3,Granollers,HC Kriens,966,1063,31.0,29.0,17.0,14.0,FT,True,home
+174335,2025-02-25,2025-02-25 19:45:00,145,EHF European League,Europe,2024,3,CD Bidasoa Irun,Limoges,964,256,35.0,30.0,15.0,15.0,FT,True,home
+174336,2025-03-04,2025-03-04 17:45:00,145,EHF European League,Europe,2024,4,Flensburg-H.,Gummersbach,314,339,32.0,30.0,16.0,16.0,FT,True,home
+174337,2025-03-04,2025-03-04 17:45:00,145,EHF European League,Europe,2024,4,GOG,Granollers,178,966,32.0,31.0,16.0,14.0,FT,True,home
+174338,2025-03-04,2025-03-04 17:45:00,145,EHF European League,Europe,2024,4,HC Kriens,Montpellier,1063,248,31.0,32.0,13.0,20.0,FT,True,away
+174339,2025-03-04,2025-03-04 17:45:00,145,EHF European League,Europe,2024,4,Tatabanya,Toulouse,418,260,31.0,33.0,15.0,15.0,FT,True,away
+174340,2025-03-04,2025-03-04 19:45:00,145,EHF European League,Europe,2024,4,Benfica,CD Bidasoa Irun,782,964,33.0,30.0,13.0,14.0,FT,True,home
+174341,2025-03-04,2025-03-04 19:45:00,145,EHF European League,Europe,2024,4,Kiel,MT Melsungen,321,324,35.0,24.0,20.0,13.0,FT,True,home
+174342,2025-03-04,2025-03-04 19:45:00,145,EHF European League,Europe,2024,4,Limoges,Ystads IF,256,1048,31.0,30.0,15.0,13.0,FT,True,home
+174343,2025-03-04,2025-03-04 19:45:00,145,EHF European League,Europe,2024,4,Vojvodina,Porto,899,778,30.0,38.0,14.0,20.0,FT,True,away
+175582,2025-03-25,2025-03-25 17:45:00,145,EHF European League,Europe,2024,,Gummersbach,MT Melsungen,339,324,29.0,26.0,15.0,13.0,FT,True,home
+175583,2025-03-25,2025-03-25 17:45:00,145,EHF European League,Europe,2024,,HC Kriens,Limoges,1063,256,36.0,29.0,17.0,14.0,FT,True,home
+175581,2025-03-25,2025-03-25 19:45:00,145,EHF European League,Europe,2024,,Benfica,GOG,782,178,33.0,31.0,17.0,15.0,FT,True,home
+175584,2025-03-25,2025-03-25 19:45:00,145,EHF European League,Europe,2024,,Porto,Toulouse,778,260,35.0,28.0,16.0,16.0,FT,True,home
+175585,2025-04-01,2025-04-01 16:45:00,145,EHF European League,Europe,2024,,GOG,Benfica,178,782,34.0,31.0,15.0,15.0,FT,True,home
+175586,2025-04-01,2025-04-01 16:45:00,145,EHF European League,Europe,2024,,Limoges,HC Kriens,256,1063,36.0,28.0,16.0,16.0,FT,True,home
+175587,2025-04-01,2025-04-01 18:45:00,145,EHF European League,Europe,2024,,MT Melsungen,Gummersbach,324,339,29.0,25.0,14.0,13.0,FT,True,home
+175588,2025-04-01,2025-04-01 18:45:00,145,EHF European League,Europe,2024,,Toulouse,Porto,260,778,30.0,28.0,12.0,12.0,FT,True,home
+176046,2025-04-22,2025-04-22 16:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,GOG,Flensburg-H.,178,314,26.0,29.0,15.0,15.0,FT,True,away
+176048,2025-04-22,2025-04-22 16:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,MT Melsungen,CD Bidasoa Irun,324,964,28.0,27.0,15.0,13.0,FT,True,home
+176047,2025-04-22,2025-04-22 18:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,Limoges,Kiel,256,321,26.0,26.0,16.0,13.0,FT,True,draw
+176049,2025-04-22,2025-04-22 18:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,Porto,Montpellier,778,248,29.0,30.0,11.0,14.0,FT,True,away
+176052,2025-04-29,2025-04-29 16:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,Kiel,Limoges,321,256,35.0,30.0,16.0,15.0,FT,True,home
+176050,2025-04-29,2025-04-29 18:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,CD Bidasoa Irun,MT Melsungen,964,324,22.0,32.0,8.0,15.0,FT,True,away
+176051,2025-04-29,2025-04-29 18:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,Flensburg-H.,GOG,314,178,35.0,29.0,17.0,12.0,FT,True,home
+176053,2025-04-29,2025-04-29 18:45:00,145,EHF European League,Europe,2024,European League - Quarter-finals,Montpellier,Porto,248,778,35.0,32.0,18.0,15.0,FT,True,home
+176571,2025-05-24,2025-05-24 13:00:00,145,EHF European League,Europe,2024,European League - Semi-finals,MT Melsungen,Flensburg-H.,324,314,34.0,35.0,15.0,16.0,AET,True,away
+176572,2025-05-24,2025-05-24 16:00:00,145,EHF European League,Europe,2024,European League - Semi-finals,Kiel,Montpellier,321,248,31.0,32.0,17.0,16.0,FT,True,away
+176859,2025-05-25,2025-05-25 13:00:00,145,EHF European League,Europe,2024,European League - 3rd place,Kiel,MT Melsungen,321,324,37.0,31.0,18.0,18.0,FT,True,home
+176860,2025-05-25,2025-05-25 16:00:00,145,EHF European League,Europe,2024,European League - Final,Montpellier,Flensburg-H.,248,314,25.0,32.0,13.0,19.0,FT,True,away
