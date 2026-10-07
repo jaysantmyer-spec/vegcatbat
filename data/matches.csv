@@ -5080,37 +5080,6 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 141618,2023-05-27,2023-05-27 16:00:00,145,EHF European League,Europe,2022,European League - Semi-finals,Granollers,Goppingen,966,316,31.0,29.0,16.0,18.0,FT,True,home
 142290,2023-05-28,2023-05-28 13:30:00,145,EHF European League,Europe,2022,European League - 3rd place,Montpellier,Goppingen,248,316,29.0,33.0,17.0,16.0,FT,True,away
 142291,2023-05-28,2023-05-28 16:00:00,145,EHF European League,Europe,2022,European League - Final,Fuchse Berlin,Granollers,315,966,36.0,31.0,16.0,12.0,FT,True,home
-202352,2026-10-06,2026-10-06 15:00:00,49,NB I,Hungary,2026,5,Szeged,Csurgoi,417,409,36.0,26.0,20.0,17.0,FT,True,home
-199129,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Mors,Tatabanya,173,418,35.0,33.0,20.0,16.0,FT,True,home
-199145,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Wybrzeze Gdansk,Eurofarm Pelister,695,1157,31.0,31.0,16.0,17.0,FT,True,draw
-199161,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Slovan,Valur,939,477,34.0,29.0,20.0,12.0,FT,True,home
-199172,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,CSM Bucuresti,Chambery Savoie,826,251,25.0,33.0,14.0,17.0,FT,True,away
-199186,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Bergischer,Savehof,312,1046,29.0,25.0,16.0,11.0,FT,True,home
-199190,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Kadetten Schaffhausen,Izvidac,4178,54,42.0,30.0,23.0,11.0,FT,True,home
-199201,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Hammarby,Nexe,1039,81,30.0,28.0,16.0,15.0,FT,True,home
-199118,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Flensburg-H.,777,314,22.0,36.0,10.0,18.0,FT,True,away
-199133,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Maritimo,CD Bidasoa Irun,4406,964,40.0,32.0,20.0,13.0,FT,True,home
-199137,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,La Rioja,Gummersbach,968,339,30.0,34.0,16.0,17.0,FT,True,away
-199149,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Karvina,972,110,33.0,32.0,17.0,14.0,FT,True,home
-199154,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Presov,85,908,36.0,36.0,19.0,18.0,FT,True,draw
-199155,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,St. Raphael,Elverum,259,636,32.0,36.0,15.0,20.0,FT,True,away
-199199,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Holstebro,Benfica,179,782,32.0,31.0,15.0,15.0,FT,True,home
-199208,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Granollers,Buzau,966,824,37.0,31.0,20.0,11.0,FT,True,home
-199212,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,FH Hafnarfjordur,Limoges,468,256,33.0,46.0,16.0,27.0,FT,True,away
-198487,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Partizan,Veszprem,4238,4616,,,,,NS,False,
-198533,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Kristianstad,GOG,1041,178,,,,,NS,False,
-198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,,,,,NS,False,
-198479,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,PSG,Celje,4484,929,,,,,NS,False,
-198541,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,Kielce,SC Magdeburg,4252,328,,,,,NS,False,
-198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,,,,,NS,False,
-198512,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,Fuchse Berlin,Porto,315,778,,,,,NS,False,
-194975,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Rhein-Neckar,Eisenach,327,335,,,,,NS,False,
-194976,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Stuttgart,HSG Wetzlar,329,318,,,,,NS,False,
-197660,2026-10-08,2026-10-08 18:00:00,34,Starligue,France,2026,6,Provence Aix,Saran,4858,245,,,,,NS,False,
-198489,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Skanderborg AGF,Montpellier,4429,248,,,,,NS,False,
-198497,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Vardar 1961,Wisla Plock,1162,694,,,,,NS,False,
-198521,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Barcelona,Din. Bucuresti,962,829,,,,,NS,False,
-198529,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,MT Melsungen,Nantes,324,257,,,,,NS,False,
 164728,2024-08-31,2024-08-31 12:00:00,145,EHF European League,Europe,2024,European League - Final,Bjerringbro/Silkeborg,Ferencvaros,176,412,45.0,27.0,22.0,14.0,FT,True,home
 164721,2024-08-31,2024-08-31 13:00:00,145,EHF European League,Europe,2024,European League - Final,Kristianstad,Granollers,1041,966,29.0,32.0,13.0,15.0,FT,True,away
 164722,2024-08-31,2024-08-31 14:00:00,145,EHF European League,Europe,2024,European League - Final,Ystads IF,Maritimo,1048,4406,39.0,31.0,16.0,15.0,FT,True,home
@@ -5279,3 +5248,34 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 176572,2025-05-24,2025-05-24 16:00:00,145,EHF European League,Europe,2024,European League - Semi-finals,Kiel,Montpellier,321,248,31.0,32.0,17.0,16.0,FT,True,away
 176859,2025-05-25,2025-05-25 13:00:00,145,EHF European League,Europe,2024,European League - 3rd place,Kiel,MT Melsungen,321,324,37.0,31.0,18.0,18.0,FT,True,home
 176860,2025-05-25,2025-05-25 16:00:00,145,EHF European League,Europe,2024,European League - Final,Montpellier,Flensburg-H.,248,314,25.0,32.0,13.0,19.0,FT,True,away
+202352,2026-10-06,2026-10-06 15:00:00,49,NB I,Hungary,2026,5,Szeged,Csurgoi,417,409,36.0,26.0,20.0,17.0,FT,True,home
+199129,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Mors,Tatabanya,173,418,35.0,33.0,20.0,16.0,FT,True,home
+199145,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Wybrzeze Gdansk,Eurofarm Pelister,695,1157,31.0,31.0,16.0,17.0,FT,True,draw
+199161,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Slovan,Valur,939,477,34.0,29.0,20.0,12.0,FT,True,home
+199172,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,CSM Bucuresti,Chambery Savoie,826,251,25.0,33.0,14.0,17.0,FT,True,away
+199186,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Bergischer,Savehof,312,1046,29.0,25.0,16.0,11.0,FT,True,home
+199190,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Kadetten Schaffhausen,Izvidac,4178,54,42.0,30.0,23.0,11.0,FT,True,home
+199201,2026-10-06,2026-10-06 16:45:00,145,EHF European League,Europe,2026,,Hammarby,Nexe,1039,81,30.0,28.0,16.0,15.0,FT,True,home
+199118,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Flensburg-H.,777,314,22.0,36.0,10.0,18.0,FT,True,away
+199133,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Maritimo,CD Bidasoa Irun,4406,964,40.0,32.0,20.0,13.0,FT,True,home
+199137,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,La Rioja,Gummersbach,968,339,30.0,34.0,16.0,17.0,FT,True,away
+199149,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Karvina,972,110,33.0,32.0,17.0,14.0,FT,True,home
+199154,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Presov,85,908,36.0,36.0,19.0,18.0,FT,True,draw
+199155,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,St. Raphael,Elverum,259,636,32.0,36.0,15.0,20.0,FT,True,away
+199199,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Holstebro,Benfica,179,782,32.0,31.0,15.0,15.0,FT,True,home
+199208,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Granollers,Buzau,966,824,37.0,31.0,20.0,11.0,FT,True,home
+199212,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,FH Hafnarfjordur,Limoges,468,256,33.0,46.0,16.0,27.0,FT,True,away
+198487,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Partizan,Veszprem,4238,4616,,,,,NS,False,
+198533,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Kristianstad,GOG,1041,178,,,,,NS,False,
+198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,,,,,NS,False,
+198479,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,PSG,Celje,4484,929,,,,,NS,False,
+198541,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,Kielce,SC Magdeburg,4252,328,,,,,NS,False,
+198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,,,,,NS,False,
+198512,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,Fuchse Berlin,Porto,315,778,,,,,NS,False,
+194975,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Rhein-Neckar,Eisenach,327,335,,,,,NS,False,
+194976,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Stuttgart,HSG Wetzlar,329,318,,,,,NS,False,
+197660,2026-10-08,2026-10-08 18:00:00,34,Starligue,France,2026,6,Provence Aix,Saran,4858,245,,,,,NS,False,
+198489,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Skanderborg AGF,Montpellier,4429,248,,,,,NS,False,
+198497,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Vardar 1961,Wisla Plock,1162,694,,,,,NS,False,
+198521,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Barcelona,Din. Bucuresti,962,829,,,,,NS,False,
+198529,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,MT Melsungen,Nantes,324,257,,,,,NS,False,
