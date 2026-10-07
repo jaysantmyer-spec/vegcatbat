@@ -5265,9 +5265,9 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 199199,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Holstebro,Benfica,179,782,32.0,31.0,15.0,15.0,FT,True,home
 199208,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,Granollers,Buzau,966,824,37.0,31.0,20.0,11.0,FT,True,home
 199212,2026-10-06,2026-10-06 18:45:00,145,EHF European League,Europe,2026,,FH Hafnarfjordur,Limoges,468,256,33.0,46.0,16.0,27.0,FT,True,away
-198487,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Partizan,Veszprem,4238,4616,,,,,NS,False,
-198533,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Kristianstad,GOG,1041,178,,,,,NS,False,
-198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,,,,,NS,False,
+198487,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Partizan,Veszprem,4238,4616,26.0,37.0,12.0,17.0,FT,True,away
+198533,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,Kristianstad,GOG,1041,178,32.0,37.0,14.0,17.0,FT,True,away
+198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,34.0,32.0,19.0,16.0,FT,True,home
 198479,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,PSG,Celje,4484,929,,,,,NS,False,
 198541,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,Kielce,SC Magdeburg,4252,328,,,,,NS,False,
 198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,,,,,NS,False,

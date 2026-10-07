@@ -30,6 +30,11 @@
       "at": "2026-10-07 12:46:58.200936",
       "action": "update_skipped",
       "reason": "only 8 graded predictions (need 150)"
+    },
+    {
+      "at": "2026-10-07 18:43:14.803239",
+      "action": "update_skipped",
+      "reason": "only 11 graded predictions (need 150)"
     }
   ]
 }
