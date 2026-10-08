@@ -5270,11 +5270,11 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198542,2026-10-07,2026-10-07 16:45:00,131,Champions League,Europe,2026,3,HC Kriens,Kolstad,1063,639,34.0,32.0,19.0,16.0,FT,True,home
 198479,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,PSG,Celje,4484,929,46.0,35.0,25.0,16.0,FT,True,home
 198541,2026-10-07,2026-10-07 18:45:00,131,Champions League,Europe,2026,3,Kielce,SC Magdeburg,4252,328,30.0,35.0,17.0,19.0,FT,True,away
-198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,,,,,NS,False,
-198512,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,Fuchse Berlin,Porto,315,778,,,,,NS,False,
-194975,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Rhein-Neckar,Eisenach,327,335,,,,,NS,False,
-194976,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Stuttgart,HSG Wetzlar,329,318,,,,,NS,False,
-197660,2026-10-08,2026-10-08 18:00:00,34,Starligue,France,2026,6,Provence Aix,Saran,4858,245,,,,,NS,False,
+198478,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,RK Zagreb,Aalborg,4445,172,23.0,33.0,12.0,17.0,FT,True,away
+198512,2026-10-08,2026-10-08 16:45:00,131,Champions League,Europe,2026,3,Fuchse Berlin,Porto,315,778,40.0,32.0,20.0,17.0,FT,True,home
+194975,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Rhein-Neckar,Eisenach,327,335,28.0,32.0,13.0,18.0,2H,False,
+194976,2026-10-08,2026-10-08 17:00:00,39,Bundesliga,Germany,2026,8,Stuttgart,HSG Wetzlar,329,318,26.0,24.0,15.0,14.0,2H,False,
+197660,2026-10-08,2026-10-08 18:00:00,34,Starligue,France,2026,6,Provence Aix,Saran,4858,245,21.0,14.0,20.0,14.0,HT,False,
 198489,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Skanderborg AGF,Montpellier,4429,248,,,,,NS,False,
 198497,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Vardar 1961,Wisla Plock,1162,694,,,,,NS,False,
 198521,2026-10-08,2026-10-08 18:45:00,131,Champions League,Europe,2026,3,Barcelona,Din. Bucuresti,962,829,,,,,NS,False,
