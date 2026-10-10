@@ -5293,7 +5293,7 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197664,2026-10-09,2026-10-09 18:00:00,34,Starligue,France,2026,6,Chartres,Chambery Savoie,252,251,35.0,35.0,18.0,18.0,FT,True,draw
 198580,2026-10-09,2026-10-09 18:00:00,103,Liga ASOBAL,Spain,2026,5,Cuenca,La Rioja,965,968,32.0,36.0,15.0,15.0,FT,True,away
 198578,2026-10-09,2026-10-09 18:15:00,103,Liga ASOBAL,Spain,2026,5,Caserio Ciudad Real,Granollers,3414,966,34.0,33.0,18.0,18.0,FT,True,home
-195578,2026-10-10,2026-10-10 12:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Aalborg,Kolding,172,180,,,,,NS,False,
+195578,2026-10-10,2026-10-10 12:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Aalborg,Kolding,172,180,17.0,16.0,14.0,14.0,1H,False,
 194361,2026-10-10,2026-10-10 13:00:00,78,Superliga,Poland,2026,6,Stal Mielec,Kielce,690,4252,,,,,NS,False,
 195577,2026-10-10,2026-10-10 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Ringsted,Nordsjaelland,183,198,,,,,NS,False,
 195575,2026-10-10,2026-10-10 13:30:00,23,Herre Handbold Ligaen,Denmark,2026,9,Mors,Sonderjyske,173,199,,,,,NS,False,
