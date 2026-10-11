@@ -5312,16 +5312,16 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198502,2026-10-10,2026-10-10 18:00:00,131,Champions League,Europe,2026,3,Szeged,Sporting,417,791,35.0,35.0,16.0,16.0,FT,True,draw
 198577,2026-10-11,2026-10-11 10:00:00,103,Liga ASOBAL,Spain,2026,5,Atl. Valladolid,Puente Genil,960,971,33.0,24.0,16.0,13.0,FT,True,home
 198583,2026-10-11,2026-10-11 10:30:00,103,Liga ASOBAL,Spain,2026,5,Villa de Aranda,Barcelona,991,962,33.0,40.0,16.0,22.0,FT,True,away
-194364,2026-10-11,2026-10-11 13:00:00,78,Superliga,Poland,2026,6,Chrobry Glogow,Wisla Plock,685,694,,,,,NS,False,
-194974,2026-10-11,2026-10-11 13:00:00,39,Bundesliga,Germany,2026,8,Kiel,Hamburg,321,319,,,,,NS,False,
-195579,2026-10-11,2026-10-11 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Skive,GOG,202,178,,,,,NS,False,
-195727,2026-10-11,2026-10-11 14:00:00,113,Handbollsligan,Sweden,2026,4,Kristianstad,Ystads IF,1041,1048,,,,,NS,False,
-197658,2026-10-11,2026-10-11 14:00:00,34,Starligue,France,2026,6,Tremblay,Montpellier,261,248,,,,,NS,False,
-194969,2026-10-11,2026-10-11 14:30:00,39,Bundesliga,Germany,2026,8,Erlangen,MT Melsungen,313,324,,,,,NS,False,
-197657,2026-10-11,2026-10-11 15:00:00,34,Starligue,France,2026,6,Selestat,Dunkerque,288,254,,,,,NS,False,
-197662,2026-10-11,2026-10-11 15:00:00,34,Starligue,France,2026,6,Nantes,Caen,257,281,,,,,NS,False,
-195722,2026-10-11,2026-10-11 15:30:00,113,Handbollsligan,Sweden,2026,4,Hammarby,Helsingborg,1039,1011,,,,,NS,False,
-194970,2026-10-11,2026-10-11 16:00:00,39,Bundesliga,Germany,2026,8,Fuchse Berlin,Lemgo,315,323,,,,,NS,False,
-195580,2026-10-11,2026-10-11 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Skanderborg AGF,Fredericia,4429,177,,,,,NS,False,
+194364,2026-10-11,2026-10-11 13:00:00,78,Superliga,Poland,2026,6,Chrobry Glogow,Wisla Plock,685,694,24.0,31.0,12.0,16.0,FT,True,away
+194974,2026-10-11,2026-10-11 13:00:00,39,Bundesliga,Germany,2026,8,Kiel,Hamburg,321,319,26.0,19.0,11.0,11.0,FT,True,home
+195579,2026-10-11,2026-10-11 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Skive,GOG,202,178,29.0,41.0,17.0,23.0,FT,True,away
+195727,2026-10-11,2026-10-11 14:00:00,113,Handbollsligan,Sweden,2026,4,Kristianstad,Ystads IF,1041,1048,29.0,23.0,16.0,10.0,FT,True,home
+197658,2026-10-11,2026-10-11 14:00:00,34,Starligue,France,2026,6,Tremblay,Montpellier,261,248,26.0,26.0,17.0,14.0,FT,True,draw
+194969,2026-10-11,2026-10-11 14:30:00,39,Bundesliga,Germany,2026,8,Erlangen,MT Melsungen,313,324,33.0,32.0,18.0,16.0,FT,True,home
+197657,2026-10-11,2026-10-11 15:00:00,34,Starligue,France,2026,6,Selestat,Dunkerque,288,254,21.0,23.0,8.0,13.0,FT,True,away
+197662,2026-10-11,2026-10-11 15:00:00,34,Starligue,France,2026,6,Nantes,Caen,257,281,38.0,31.0,18.0,19.0,FT,True,home
+195722,2026-10-11,2026-10-11 15:30:00,113,Handbollsligan,Sweden,2026,4,Hammarby,Helsingborg,1039,1011,26.0,23.0,11.0,8.0,FT,True,home
+194970,2026-10-11,2026-10-11 16:00:00,39,Bundesliga,Germany,2026,8,Fuchse Berlin,Lemgo,315,323,36.0,37.0,19.0,17.0,FT,True,away
+195580,2026-10-11,2026-10-11 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Skanderborg AGF,Fredericia,4429,177,15.0,16.0,15.0,14.0,HT,False,
 194359,2026-10-12,2026-10-12 16:00:00,78,Superliga,Poland,2026,6,Slask Wroclaw,Kalisz,4225,687,,,,,NS,False,
 194363,2026-10-12,2026-10-12 16:00:00,78,Superliga,Poland,2026,6,Legionowo,MMTS Kwidzyn,732,688,,,,,NS,False,
