@@ -5304,12 +5304,12 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 202356,2026-10-10,2026-10-10 16:00:00,49,NB I,Hungary,2026,5,Tatabanya,Szigetszentmiklosi,418,1639,31.0,31.0,16.0,17.0,FT,True,draw
 202357,2026-10-10,2026-10-10 16:00:00,49,NB I,Hungary,2026,5,Gyongyosi,NEKA,413,416,28.0,25.0,14.0,12.0,FT,True,home
 202358,2026-10-10,2026-10-10 16:00:00,49,NB I,Hungary,2026,5,Budai Farkasok,Dabas,438,410,28.0,29.0,16.0,16.0,FT,True,away
-194971,2026-10-10,2026-10-10 17:00:00,39,Bundesliga,Germany,2026,8,Goppingen,Bietigheim-Metterzimmern,316,333,23.0,27.0,15.0,15.0,2H,False,
+194971,2026-10-10,2026-10-10 17:00:00,39,Bundesliga,Germany,2026,8,Goppingen,Bietigheim-Metterzimmern,316,333,25.0,29.0,15.0,15.0,FT,True,away
 197661,2026-10-10,2026-10-10 17:00:00,34,Starligue,France,2026,6,PSG,Toulouse,4484,260,30.0,23.0,16.0,10.0,FT,True,home
-197663,2026-10-10,2026-10-10 17:00:00,34,Starligue,France,2026,6,Limoges,Nimes,256,258,33.0,30.0,20.0,14.0,2H,False,
+197663,2026-10-10,2026-10-10 17:00:00,34,Starligue,France,2026,6,Limoges,Nimes,256,258,35.0,31.0,20.0,14.0,FT,True,home
 198579,2026-10-10,2026-10-10 17:00:00,103,Liga ASOBAL,Spain,2026,5,CD Bidasoa Irun,Proin Sevilla,964,5010,38.0,33.0,21.0,18.0,FT,True,home
-198582,2026-10-10,2026-10-10 17:00:00,103,Liga ASOBAL,Spain,2026,5,Torrelavega,Morrazo Cangas,972,969,28.0,31.0,11.0,17.0,2H,False,
-198502,2026-10-10,2026-10-10 18:00:00,131,Champions League,Europe,2026,3,Szeged,Sporting,417,791,16.0,16.0,14.0,14.0,1H,False,
+198582,2026-10-10,2026-10-10 17:00:00,103,Liga ASOBAL,Spain,2026,5,Torrelavega,Morrazo Cangas,972,969,28.0,31.0,11.0,17.0,FT,True,away
+198502,2026-10-10,2026-10-10 18:00:00,131,Champions League,Europe,2026,3,Szeged,Sporting,417,791,35.0,35.0,16.0,16.0,FT,True,draw
 198577,2026-10-11,2026-10-11 10:00:00,103,Liga ASOBAL,Spain,2026,5,Atl. Valladolid,Puente Genil,960,971,,,,,NS,False,
 198583,2026-10-11,2026-10-11 10:30:00,103,Liga ASOBAL,Spain,2026,5,Villa de Aranda,Barcelona,991,962,,,,,NS,False,
 194364,2026-10-11,2026-10-11 13:00:00,78,Superliga,Poland,2026,6,Chrobry Glogow,Wisla Plock,685,694,,,,,NS,False,
@@ -5323,3 +5323,5 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 195722,2026-10-11,2026-10-11 15:30:00,113,Handbollsligan,Sweden,2026,4,Hammarby,Helsingborg,1039,1011,,,,,NS,False,
 194970,2026-10-11,2026-10-11 16:00:00,39,Bundesliga,Germany,2026,8,Fuchse Berlin,Lemgo,315,323,,,,,NS,False,
 195580,2026-10-11,2026-10-11 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,9,Skanderborg AGF,Fredericia,4429,177,,,,,NS,False,
+194359,2026-10-12,2026-10-12 16:00:00,78,Superliga,Poland,2026,6,Slask Wroclaw,Kalisz,4225,687,,,,,NS,False,
+194363,2026-10-12,2026-10-12 16:00:00,78,Superliga,Poland,2026,6,Legionowo,MMTS Kwidzyn,732,688,,,,,NS,False,
