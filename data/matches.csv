@@ -5334,14 +5334,14 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 199200,2026-10-13,2026-10-13 16:45:00,145,EHF European League,Europe,2026,,Hammarby,St. Raphael,1039,259,34.0,26.0,18.0,15.0,FT,True,home
 199203,2026-10-13,2026-10-13 16:45:00,145,EHF European League,Europe,2026,,Gummersbach,Eurofarm Pelister,339,1157,38.0,28.0,20.0,15.0,FT,True,home
 199213,2026-10-13,2026-10-13 16:45:00,145,EHF European League,Europe,2026,,Wybrzeze Gdansk,La Rioja,695,968,30.0,30.0,13.0,14.0,FT,True,draw
-199122,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Presov,Savehof,908,1046,0.0,1.0,,,1H,False,
-199130,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Bergischer,85,312,1.0,2.0,,,1H,False,
-199131,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Maritimo,FH Hafnarfjordur,4406,468,3.0,1.0,,,1H,False,
-199134,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Limoges,CD Bidasoa Irun,256,964,1.0,0.0,,,1H,False,
-199146,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Valur,Tatabanya,477,418,,,,,NS,False,
-199151,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Holstebro,972,179,2.0,1.0,,,1H,False,
-199166,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Granollers,777,966,1.0,1.0,,,1H,False,
-199210,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Flensburg-H.,Buzau,314,824,0.0,2.0,,,1H,False,
+199122,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Presov,Savehof,908,1046,25.0,38.0,11.0,20.0,FT,True,away
+199130,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Sesvete,Bergischer,85,312,37.0,31.0,18.0,13.0,FT,True,home
+199131,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Maritimo,FH Hafnarfjordur,4406,468,37.0,29.0,22.0,11.0,FT,True,home
+199134,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Limoges,CD Bidasoa Irun,256,964,32.0,28.0,16.0,13.0,FT,True,home
+199146,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Valur,Tatabanya,477,418,38.0,34.0,16.0,16.0,FT,True,home
+199151,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Torrelavega,Holstebro,972,179,38.0,30.0,16.0,16.0,FT,True,home
+199166,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Aguas Santas,Granollers,777,966,31.0,32.0,16.0,15.0,FT,True,away
+199210,2026-10-13,2026-10-13 18:45:00,145,EHF European League,Europe,2026,,Flensburg-H.,Buzau,314,824,36.0,27.0,17.0,14.0,FT,True,home
 203787,2026-10-14,2026-10-14 16:00:00,75,Elkjop-ligaen,Norway,2026,,Runar,Sandnes,646,611,,,,,NS,False,
 198475,2026-10-14,2026-10-14 16:45:00,131,Champions League,Europe,2026,4,SC Magdeburg,Kielce,328,4252,,,,,NS,False,
 198494,2026-10-14,2026-10-14 16:45:00,131,Champions League,Europe,2026,4,Veszprem,Partizan,4616,4238,,,,,NS,False,
@@ -5351,3 +5351,11 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 203788,2026-10-14,2026-10-14 17:00:00,75,Elkjop-ligaen,Norway,2026,,Kristiansand,Drammen,640,635,,,,,NS,False,
 198507,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Nantes,MT Melsungen,257,324,,,,,NS,False,
 198543,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Wisla Plock,Vardar 1961,694,1162,,,,,NS,False,
+198509,2026-10-15,2026-10-15 16:45:00,131,Champions League,Europe,2026,4,Din. Bucuresti,Barcelona,829,962,,,,,NS,False,
+198517,2026-10-15,2026-10-15 16:45:00,131,Champions League,Europe,2026,4,GOG,Kristianstad,178,1041,,,,,NS,False,
+194977,2026-10-15,2026-10-15 17:00:00,39,Bundesliga,Germany,2026,9,Kiel,Rhein-Neckar,321,327,,,,,NS,False,
+194981,2026-10-15,2026-10-15 17:00:00,39,Bundesliga,Germany,2026,9,HSG Wetzlar,Erlangen,318,313,,,,,NS,False,
+195728,2026-10-15,2026-10-15 17:00:00,113,Handbollsligan,Sweden,2026,5,Helsingborg,Skovde,1011,1047,,,,,NS,False,
+198483,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Porto,Fuchse Berlin,778,315,,,,,NS,False,
+198505,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Sporting,Szeged,791,417,,,,,NS,False,
+198530,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Montpellier,Skanderborg AGF,248,4429,,,,,NS,False,
