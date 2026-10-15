@@ -5349,8 +5349,8 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198518,2026-10-14,2026-10-14 16:45:00,131,Champions League,Europe,2026,4,Celje,PSG,929,4484,30.0,41.0,14.0,22.0,FT,True,away
 198536,2026-10-14,2026-10-14 16:45:00,131,Champions League,Europe,2026,4,Kolstad,HC Kriens,639,1063,28.0,36.0,13.0,16.0,FT,True,away
 203788,2026-10-14,2026-10-14 17:00:00,75,Elkjop-ligaen,Norway,2026,,Kristiansand,Drammen,640,635,30.0,27.0,15.0,12.0,FT,True,home
-198507,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Nantes,MT Melsungen,257,324,6.0,5.0,5.0,5.0,1H,False,
-198543,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Wisla Plock,Vardar 1961,694,1162,8.0,5.0,8.0,5.0,1H,False,
+198507,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Nantes,MT Melsungen,257,324,33.0,25.0,17.0,10.0,FT,True,home
+198543,2026-10-14,2026-10-14 18:45:00,131,Champions League,Europe,2026,4,Wisla Plock,Vardar 1961,694,1162,33.0,32.0,16.0,13.0,FT,True,home
 198509,2026-10-15,2026-10-15 16:45:00,131,Champions League,Europe,2026,4,Din. Bucuresti,Barcelona,829,962,,,,,NS,False,
 198517,2026-10-15,2026-10-15 16:45:00,131,Champions League,Europe,2026,4,GOG,Kristianstad,178,1041,,,,,NS,False,
 194977,2026-10-15,2026-10-15 17:00:00,39,Bundesliga,Germany,2026,9,Kiel,Rhein-Neckar,321,327,,,,,NS,False,
@@ -5359,3 +5359,15 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198483,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Porto,Fuchse Berlin,778,315,,,,,NS,False,
 198505,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Sporting,Szeged,791,417,,,,,NS,False,
 198530,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Montpellier,Skanderborg AGF,248,4429,,,,,NS,False,
+202359,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Ferencvaros,Budai Farkasok,412,438,,,,,NS,False,
+202360,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Szigetszentmiklosi,Balatonfuredi,1639,407,,,,,NS,False,
+195729,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Alingsas,Malmo,1035,1043,,,,,NS,False,
+195730,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Amo HK,Skanela,1009,1017,,,,,NS,False,
+195731,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Onnereds,Hammarby,1044,1039,,,,,NS,False,
+195732,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Ystads IF,Hallby,1048,1038,,,,,NS,False,
+198591,2026-10-16,2026-10-16 17:00:00,103,Liga ASOBAL,Spain,2026,6,Ademar,Villa de Aranda,957,991,,,,,NS,False,
+194984,2026-10-16,2026-10-16 18:00:00,39,Bundesliga,Germany,2026,9,Eisenach,Gummersbach,335,339,,,,,NS,False,
+197670,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Nimes,Tremblay,258,261,,,,,NS,False,
+197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,,,,,NS,False,
+195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,,,,,NS,False,
+197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,,,,,NS,False,
