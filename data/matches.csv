@@ -5356,9 +5356,9 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 194977,2026-10-15,2026-10-15 17:00:00,39,Bundesliga,Germany,2026,9,Kiel,Rhein-Neckar,321,327,37.0,36.0,19.0,20.0,FT,True,home
 194981,2026-10-15,2026-10-15 17:00:00,39,Bundesliga,Germany,2026,9,HSG Wetzlar,Erlangen,318,313,30.0,34.0,14.0,17.0,FT,True,away
 195728,2026-10-15,2026-10-15 17:00:00,113,Handbollsligan,Sweden,2026,5,Helsingborg,Skovde,1011,1047,29.0,29.0,14.0,16.0,FT,True,draw
-198483,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Porto,Fuchse Berlin,778,315,7.0,9.0,6.0,9.0,1H,False,
-198505,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Sporting,Szeged,791,417,8.0,7.0,7.0,3.0,1H,False,
-198530,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Montpellier,Skanderborg AGF,248,4429,7.0,6.0,4.0,4.0,1H,False,
+198483,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Porto,Fuchse Berlin,778,315,33.0,36.0,18.0,19.0,FT,True,away
+198505,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Sporting,Szeged,791,417,34.0,28.0,19.0,14.0,FT,True,home
+198530,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Montpellier,Skanderborg AGF,248,4429,30.0,38.0,14.0,18.0,FT,True,away
 202359,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Ferencvaros,Budai Farkasok,412,438,,,,,NS,False,
 202360,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Szigetszentmiklosi,Balatonfuredi,1639,407,,,,,NS,False,
 195729,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Alingsas,Malmo,1035,1043,,,,,NS,False,
@@ -5371,3 +5371,22 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,,,,,NS,False,
 195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,,,,,NS,False,
 197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,,,,,NS,False,
+195583,2026-10-17,2026-10-17 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Nordsjaelland,Holstebro,198,179,,,,,NS,False,
+195584,2026-10-17,2026-10-17 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Sonderjyske,Skjern,199,185,,,,,NS,False,
+203789,2026-10-17,2026-10-17 14:30:00,75,Elkjop-ligaen,Norway,2026,,Kolstad,Elverum,639,636,,,,,NS,False,
+198586,2026-10-17,2026-10-17 15:00:00,103,Liga ASOBAL,Spain,2026,6,Puente Genil,La Rioja,971,968,,,,,NS,False,
+202361,2026-10-17,2026-10-17 15:00:00,49,NB I,Hungary,2026,6,Csurgoi,Tatabanya,409,418,,,,,NS,False,
+203790,2026-10-17,2026-10-17 15:00:00,75,Elkjop-ligaen,Norway,2026,,Sandefjord TIF,Follo,647,608,,,,,NS,False,
+194370,2026-10-17,2026-10-17 16:00:00,78,Superliga,Poland,2026,7,Gwardia Opole,Piotrkowianin Piotrkow,686,689,,,,,NS,False,
+198587,2026-10-17,2026-10-17 16:00:00,103,Liga ASOBAL,Spain,2026,6,Horneo Alicante,CD Bidasoa Irun,983,964,,,,,NS,False,
+202362,2026-10-17,2026-10-17 16:00:00,49,NB I,Hungary,2026,6,Dabas,Gyongyosi,410,413,,,,,NS,False,
+202363,2026-10-17,2026-10-17 16:00:00,49,NB I,Hungary,2026,6,Eger,Gyor,411,442,,,,,NS,False,
+203791,2026-10-17,2026-10-17 16:00:00,75,Elkjop-ligaen,Norway,2026,,Bergen,Fjellhammer,2067,637,,,,,NS,False,
+198585,2026-10-17,2026-10-17 16:30:00,103,Liga ASOBAL,Spain,2026,6,Puerto Sagunto,Nava,986,970,,,,,NS,False,
+194982,2026-10-17,2026-10-17 17:00:00,39,Bundesliga,Germany,2026,9,Bietigheim-Metterzimmern,Hamburg,333,319,,,,,NS,False,
+197665,2026-10-17,2026-10-17 17:00:00,34,Starligue,France,2026,7,Caen,PSG,281,4484,,,,,NS,False,
+198590,2026-10-17,2026-10-17 17:00:00,103,Liga ASOBAL,Spain,2026,6,Atl. Valladolid,Caserio Ciudad Real,960,3414,,,,,NS,False,
+194979,2026-10-17,2026-10-17 18:00:00,39,Bundesliga,Germany,2026,9,MT Melsungen,Bergischer,324,312,,,,,NS,False,
+197668,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Dunkerque,Chartres,254,252,,,,,NS,False,
+197671,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Saran,Nantes,245,257,,,,,NS,False,
+198589,2026-10-17,2026-10-17 18:30:00,103,Liga ASOBAL,Spain,2026,6,Cuenca,Torrelavega,965,972,,,,,NS,False,
