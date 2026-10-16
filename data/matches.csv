@@ -5359,18 +5359,18 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198483,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Porto,Fuchse Berlin,778,315,33.0,36.0,18.0,19.0,FT,True,away
 198505,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Sporting,Szeged,791,417,34.0,28.0,19.0,14.0,FT,True,home
 198530,2026-10-15,2026-10-15 18:45:00,131,Champions League,Europe,2026,4,Montpellier,Skanderborg AGF,248,4429,30.0,38.0,14.0,18.0,FT,True,away
-202359,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Ferencvaros,Budai Farkasok,412,438,,,,,NS,False,
-202360,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Szigetszentmiklosi,Balatonfuredi,1639,407,,,,,NS,False,
-195729,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Alingsas,Malmo,1035,1043,,,,,NS,False,
-195730,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Amo HK,Skanela,1009,1017,,,,,NS,False,
-195731,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Onnereds,Hammarby,1044,1039,,,,,NS,False,
-195732,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Ystads IF,Hallby,1048,1038,,,,,NS,False,
-198591,2026-10-16,2026-10-16 17:00:00,103,Liga ASOBAL,Spain,2026,6,Ademar,Villa de Aranda,957,991,,,,,NS,False,
-194984,2026-10-16,2026-10-16 18:00:00,39,Bundesliga,Germany,2026,9,Eisenach,Gummersbach,335,339,,,,,NS,False,
-197670,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Nimes,Tremblay,258,261,,,,,NS,False,
-197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,,,,,NS,False,
-195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,,,,,NS,False,
-197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,,,,,NS,False,
+202359,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Ferencvaros,Budai Farkasok,412,438,32.0,29.0,13.0,13.0,FT,True,home
+202360,2026-10-16,2026-10-16 16:00:00,49,NB I,Hungary,2026,6,Szigetszentmiklosi,Balatonfuredi,1639,407,23.0,30.0,13.0,18.0,FT,True,away
+195729,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Alingsas,Malmo,1035,1043,27.0,28.0,14.0,14.0,FT,True,away
+195730,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Amo HK,Skanela,1009,1017,34.0,27.0,17.0,10.0,FT,True,home
+195731,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Onnereds,Hammarby,1044,1039,29.0,32.0,11.0,19.0,FT,True,away
+195732,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Ystads IF,Hallby,1048,1038,31.0,28.0,16.0,14.0,FT,True,home
+198591,2026-10-16,2026-10-16 17:00:00,103,Liga ASOBAL,Spain,2026,6,Ademar,Villa de Aranda,957,991,40.0,35.0,19.0,18.0,FT,True,home
+194984,2026-10-16,2026-10-16 18:00:00,39,Bundesliga,Germany,2026,9,Eisenach,Gummersbach,335,339,15.0,15.0,14.0,15.0,2H,False,
+197670,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Nimes,Tremblay,258,261,18.0,19.0,18.0,19.0,HT,False,
+197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,17.0,16.0,17.0,16.0,HT,False,
+195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,16.0,13.0,16.0,13.0,HT,False,
+197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,14.0,12.0,13.0,9.0,1H,False,
 195583,2026-10-17,2026-10-17 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Nordsjaelland,Holstebro,198,179,,,,,NS,False,
 195584,2026-10-17,2026-10-17 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Sonderjyske,Skjern,199,185,,,,,NS,False,
 203789,2026-10-17,2026-10-17 14:30:00,75,Elkjop-ligaen,Norway,2026,,Kolstad,Elverum,639,636,,,,,NS,False,
