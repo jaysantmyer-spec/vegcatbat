@@ -5366,11 +5366,11 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 195731,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Onnereds,Hammarby,1044,1039,29.0,32.0,11.0,19.0,FT,True,away
 195732,2026-10-16,2026-10-16 17:00:00,113,Handbollsligan,Sweden,2026,5,Ystads IF,Hallby,1048,1038,31.0,28.0,16.0,14.0,FT,True,home
 198591,2026-10-16,2026-10-16 17:00:00,103,Liga ASOBAL,Spain,2026,6,Ademar,Villa de Aranda,957,991,40.0,35.0,19.0,18.0,FT,True,home
-194984,2026-10-16,2026-10-16 18:00:00,39,Bundesliga,Germany,2026,9,Eisenach,Gummersbach,335,339,15.0,15.0,14.0,15.0,2H,False,
-197670,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Nimes,Tremblay,258,261,18.0,19.0,18.0,19.0,HT,False,
-197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,17.0,16.0,17.0,16.0,HT,False,
-195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,16.0,13.0,16.0,13.0,HT,False,
-197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,14.0,12.0,13.0,9.0,1H,False,
+194984,2026-10-16,2026-10-16 18:00:00,39,Bundesliga,Germany,2026,9,Eisenach,Gummersbach,335,339,28.0,28.0,14.0,15.0,FT,True,draw
+197670,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Nimes,Tremblay,258,261,36.0,34.0,18.0,19.0,FT,True,home
+197672,2026-10-16,2026-10-16 18:00:00,34,Starligue,France,2026,7,Toulouse,St. Raphael,260,259,35.0,31.0,17.0,16.0,FT,True,home
+195733,2026-10-16,2026-10-16 18:15:00,113,Handbollsligan,Sweden,2026,5,Karlskrona,Lugi,1012,1042,32.0,30.0,16.0,12.0,FT,True,home
+197666,2026-10-16,2026-10-16 18:30:00,34,Starligue,France,2026,7,Cesson Rennes-Metropole,Selestat,242,288,33.0,36.0,19.0,19.0,FT,True,away
 195583,2026-10-17,2026-10-17 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Nordsjaelland,Holstebro,198,179,,,,,NS,False,
 195584,2026-10-17,2026-10-17 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Sonderjyske,Skjern,199,185,,,,,NS,False,
 203789,2026-10-17,2026-10-17 14:30:00,75,Elkjop-ligaen,Norway,2026,,Kolstad,Elverum,639,636,,,,,NS,False,
@@ -5390,3 +5390,18 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197668,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Dunkerque,Chartres,254,252,,,,,NS,False,
 197671,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Saran,Nantes,245,257,,,,,NS,False,
 198589,2026-10-17,2026-10-17 18:30:00,103,Liga ASOBAL,Spain,2026,6,Cuenca,Torrelavega,965,972,,,,,NS,False,
+198584,2026-10-18,2026-10-18 10:00:00,103,Liga ASOBAL,Spain,2026,6,Proin Sevilla,Granollers,5010,966,,,,,NS,False,
+195585,2026-10-18,2026-10-18 12:30:00,23,Herre Handbold Ligaen,Denmark,2026,10,Ribe-Esbjerg,Skanderborg AGF,182,4429,,,,,NS,False,
+194367,2026-10-18,2026-10-18 13:00:00,78,Superliga,Poland,2026,7,Wisla Plock,Wybrzeze Gdansk,694,695,,,,,NS,False,
+194983,2026-10-18,2026-10-18 13:00:00,39,Bundesliga,Germany,2026,9,Flensburg-H.,Fuchse Berlin,314,315,,,,,NS,False,
+195586,2026-10-18,2026-10-18 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,GOG,Kolding,178,180,,,,,NS,False,
+194980,2026-10-18,2026-10-18 14:30:00,39,Bundesliga,Germany,2026,9,Lemgo,Goppingen,323,316,,,,,NS,False,
+203792,2026-10-18,2026-10-18 14:30:00,75,Elkjop-ligaen,Norway,2026,,Bergsoy,Arendal,1168,629,,,,,NS,False,
+197667,2026-10-18,2026-10-18 15:00:00,34,Starligue,France,2026,7,Chambery Savoie,Provence Aix,251,4858,,,,,NS,False,
+197669,2026-10-18,2026-10-18 15:00:00,34,Starligue,France,2026,7,Montpellier,Limoges,248,256,,,,,NS,False,
+194978,2026-10-18,2026-10-18 16:00:00,39,Bundesliga,Germany,2026,9,SC Magdeburg,Stuttgart,328,329,,,,,NS,False,
+195581,2026-10-18,2026-10-18 16:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Bjerringbro/Silkeborg,Ringsted,176,183,,,,,NS,False,
+202365,2026-10-18,2026-10-18 16:00:00,49,NB I,Hungary,2026,6,NEKA,Szeged,416,417,,,,,NS,False,
+198588,2026-10-18,2026-10-18 16:15:00,103,Liga ASOBAL,Spain,2026,6,Morrazo Cangas,Barcelona,969,962,,,,,NS,False,
+195582,2026-10-18,2026-10-18 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Fredericia,Skive,177,202,,,,,NS,False,
+195587,2026-10-18,2026-10-18 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Aalborg,Mors,172,173,,,,,NS,False,
