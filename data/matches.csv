@@ -5386,10 +5386,10 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 194982,2026-10-17,2026-10-17 17:00:00,39,Bundesliga,Germany,2026,9,Bietigheim-Metterzimmern,Hamburg,333,319,30.0,35.0,17.0,17.0,FT,True,away
 197665,2026-10-17,2026-10-17 17:00:00,34,Starligue,France,2026,7,Caen,PSG,281,4484,28.0,42.0,13.0,20.0,FT,True,away
 198590,2026-10-17,2026-10-17 17:00:00,103,Liga ASOBAL,Spain,2026,6,Atl. Valladolid,Caserio Ciudad Real,960,3414,30.0,26.0,18.0,14.0,FT,True,home
-194979,2026-10-17,2026-10-17 18:00:00,39,Bundesliga,Germany,2026,9,MT Melsungen,Bergischer,324,312,15.0,13.0,15.0,13.0,HT,False,
-197668,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Dunkerque,Chartres,254,252,13.0,15.0,13.0,15.0,HT,False,
-197671,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Saran,Nantes,245,257,12.0,19.0,12.0,19.0,1H,False,
-198589,2026-10-17,2026-10-17 18:30:00,103,Liga ASOBAL,Spain,2026,6,Cuenca,Torrelavega,965,972,8.0,8.0,5.0,5.0,1H,False,
+194979,2026-10-17,2026-10-17 18:00:00,39,Bundesliga,Germany,2026,9,MT Melsungen,Bergischer,324,312,33.0,26.0,15.0,13.0,FT,True,home
+197668,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Dunkerque,Chartres,254,252,24.0,27.0,13.0,15.0,FT,True,away
+197671,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Saran,Nantes,245,257,31.0,34.0,13.0,19.0,FT,True,away
+198589,2026-10-17,2026-10-17 18:30:00,103,Liga ASOBAL,Spain,2026,6,Cuenca,Torrelavega,965,972,31.0,31.0,17.0,15.0,FT,True,draw
 198584,2026-10-18,2026-10-18 10:00:00,103,Liga ASOBAL,Spain,2026,6,Proin Sevilla,Granollers,5010,966,,,,,NS,False,
 195585,2026-10-18,2026-10-18 12:30:00,23,Herre Handbold Ligaen,Denmark,2026,10,Ribe-Esbjerg,Skanderborg AGF,182,4429,,,,,NS,False,
 194367,2026-10-18,2026-10-18 13:00:00,78,Superliga,Poland,2026,7,Wisla Plock,Wybrzeze Gdansk,694,695,,,,,NS,False,
@@ -5405,3 +5405,6 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198588,2026-10-18,2026-10-18 16:15:00,103,Liga ASOBAL,Spain,2026,6,Morrazo Cangas,Barcelona,969,962,,,,,NS,False,
 195582,2026-10-18,2026-10-18 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Fredericia,Skive,177,202,,,,,NS,False,
 195587,2026-10-18,2026-10-18 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Aalborg,Mors,172,173,,,,,NS,False,
+194365,2026-10-19,2026-10-19 16:00:00,78,Superliga,Poland,2026,7,MMTS Kwidzyn,Stal Mielec,688,690,,,,,NS,False,
+194985,2026-10-19,2026-10-19 17:00:00,39,Bundesliga,Germany,2026,9,HBW Balingen-Weilstetten,Hannover-Burgdorf,317,320,,,,,NS,False,
+195734,2026-10-19,2026-10-19 17:00:00,113,Handbollsligan,Sweden,2026,5,Savehof,Kristianstad,1046,1041,,,,,NS,False,
