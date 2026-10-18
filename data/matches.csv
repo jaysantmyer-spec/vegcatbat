@@ -5390,8 +5390,8 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197668,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Dunkerque,Chartres,254,252,24.0,27.0,13.0,15.0,FT,True,away
 197671,2026-10-17,2026-10-17 18:00:00,34,Starligue,France,2026,7,Saran,Nantes,245,257,31.0,34.0,13.0,19.0,FT,True,away
 198589,2026-10-17,2026-10-17 18:30:00,103,Liga ASOBAL,Spain,2026,6,Cuenca,Torrelavega,965,972,31.0,31.0,17.0,15.0,FT,True,draw
-198584,2026-10-18,2026-10-18 10:00:00,103,Liga ASOBAL,Spain,2026,6,Proin Sevilla,Granollers,5010,966,,,,,NS,False,
-195585,2026-10-18,2026-10-18 12:30:00,23,Herre Handbold Ligaen,Denmark,2026,10,Ribe-Esbjerg,Skanderborg AGF,182,4429,,,,,NS,False,
+198584,2026-10-18,2026-10-18 10:00:00,103,Liga ASOBAL,Spain,2026,6,Proin Sevilla,Granollers,5010,966,29.0,31.0,13.0,14.0,FT,True,away
+195585,2026-10-18,2026-10-18 12:30:00,23,Herre Handbold Ligaen,Denmark,2026,10,Ribe-Esbjerg,Skanderborg AGF,182,4429,9.0,12.0,9.0,12.0,1H,False,
 194367,2026-10-18,2026-10-18 13:00:00,78,Superliga,Poland,2026,7,Wisla Plock,Wybrzeze Gdansk,694,695,,,,,NS,False,
 194983,2026-10-18,2026-10-18 13:00:00,39,Bundesliga,Germany,2026,9,Flensburg-H.,Fuchse Berlin,314,315,,,,,NS,False,
 195586,2026-10-18,2026-10-18 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,GOG,Kolding,178,180,,,,,NS,False,
