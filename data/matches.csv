@@ -5404,7 +5404,9 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 202365,2026-10-18,2026-10-18 16:00:00,49,NB I,Hungary,2026,6,NEKA,Szeged,416,417,29.0,40.0,15.0,20.0,FT,True,away
 198588,2026-10-18,2026-10-18 16:15:00,103,Liga ASOBAL,Spain,2026,6,Morrazo Cangas,Barcelona,969,962,28.0,37.0,14.0,17.0,FT,True,away
 195582,2026-10-18,2026-10-18 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Fredericia,Skive,177,202,36.0,29.0,19.0,16.0,FT,True,home
-195587,2026-10-18,2026-10-18 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Aalborg,Mors,172,173,20.0,13.0,20.0,13.0,HT,False,
+195587,2026-10-18,2026-10-18 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,10,Aalborg,Mors,172,173,37.0,26.0,20.0,13.0,FT,True,home
 194365,2026-10-19,2026-10-19 16:00:00,78,Superliga,Poland,2026,7,MMTS Kwidzyn,Stal Mielec,688,690,,,,,NS,False,
 194985,2026-10-19,2026-10-19 17:00:00,39,Bundesliga,Germany,2026,9,HBW Balingen-Weilstetten,Hannover-Burgdorf,317,320,,,,,NS,False,
 195734,2026-10-19,2026-10-19 17:00:00,113,Handbollsligan,Sweden,2026,5,Savehof,Kristianstad,1046,1041,,,,,NS,False,
+194366,2026-10-20,2026-10-20 16:00:00,78,Superliga,Poland,2026,7,Ostrow Wielkopolski,Legionowo,739,732,,,,,NS,False,
+195735,2026-10-20,2026-10-20 17:00:00,113,Handbollsligan,Sweden,2026,6,Skovde,Amo HK,1047,1009,,,,,NS,False,
