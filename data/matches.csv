@@ -5408,8 +5408,8 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 194365,2026-10-19,2026-10-19 16:00:00,78,Superliga,Poland,2026,7,MMTS Kwidzyn,Stal Mielec,688,690,26.0,25.0,16.0,12.0,FT,True,home
 194985,2026-10-19,2026-10-19 17:00:00,39,Bundesliga,Germany,2026,9,HBW Balingen-Weilstetten,Hannover-Burgdorf,317,320,29.0,29.0,13.0,16.0,FT,True,draw
 195734,2026-10-19,2026-10-19 17:00:00,113,Handbollsligan,Sweden,2026,5,Savehof,Kristianstad,1046,1041,39.0,28.0,21.0,15.0,FT,True,home
-194366,2026-10-20,2026-10-20 16:00:00,78,Superliga,Poland,2026,7,Ostrow Wielkopolski,Legionowo,739,732,,,,,NS,False,
-195735,2026-10-20,2026-10-20 17:00:00,113,Handbollsligan,Sweden,2026,6,Skovde,Amo HK,1047,1009,,,,,NS,False,
+194366,2026-10-20,2026-10-20 16:00:00,78,Superliga,Poland,2026,7,Ostrow Wielkopolski,Legionowo,739,732,42.0,41.0,16.0,14.0,AP,True,home
+195735,2026-10-20,2026-10-20 17:00:00,113,Handbollsligan,Sweden,2026,6,Skovde,Amo HK,1047,1009,34.0,30.0,16.0,16.0,FT,True,home
 194369,2026-10-21,2026-10-21 16:00:00,78,Superliga,Poland,2026,7,Kalisz,Chrobry Glogow,687,685,,,,,NS,False,
 202366,2026-10-21,2026-10-21 16:00:00,49,NB I,Hungary,2026,7,PLER,Eger,447,411,,,,,NS,False,
 203793,2026-10-21,2026-10-21 16:15:00,75,Elkjop-ligaen,Norway,2026,,Sandefjord TIF,Runar,647,646,,,,,NS,False,
