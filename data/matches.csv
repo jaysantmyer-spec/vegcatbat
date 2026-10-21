@@ -5410,20 +5410,20 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 195734,2026-10-19,2026-10-19 17:00:00,113,Handbollsligan,Sweden,2026,5,Savehof,Kristianstad,1046,1041,39.0,28.0,21.0,15.0,FT,True,home
 194366,2026-10-20,2026-10-20 16:00:00,78,Superliga,Poland,2026,7,Ostrow Wielkopolski,Legionowo,739,732,42.0,41.0,16.0,14.0,AP,True,home
 195735,2026-10-20,2026-10-20 17:00:00,113,Handbollsligan,Sweden,2026,6,Skovde,Amo HK,1047,1009,34.0,30.0,16.0,16.0,FT,True,home
-194369,2026-10-21,2026-10-21 16:00:00,78,Superliga,Poland,2026,7,Kalisz,Chrobry Glogow,687,685,,,,,NS,False,
-202366,2026-10-21,2026-10-21 16:00:00,49,NB I,Hungary,2026,7,PLER,Eger,447,411,,,,,NS,False,
-203793,2026-10-21,2026-10-21 16:15:00,75,Elkjop-ligaen,Norway,2026,,Sandefjord TIF,Runar,647,646,,,,,NS,False,
-198477,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,RK Zagreb,PSG,4445,4484,,,,,NS,False,
-198485,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Partizan,Porto,4238,778,,,,,NS,False,
-198496,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Veszprem,Fuchse Berlin,4616,315,,,,,NS,False,
-198514,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Din. Bucuresti,Skanderborg AGF,829,4429,,,,,NS,False,
-195736,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Hallby,Savehof,1038,1046,,,,,NS,False,
-195737,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Hammarby,Alingsas,1039,1035,,,,,NS,False,
-195739,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Malmo,Lugi,1043,1042,,,,,NS,False,
-195589,2026-10-21,2026-10-21 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Mors,Bjerringbro/Silkeborg,173,176,,,,,NS,False,
-198506,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Nantes,Vardar 1961,257,1162,,,,,NS,False,
-198523,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Aalborg,Celje,172,929,,,,,NS,False,
-198535,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,HC Kriens,Kielce,1063,4252,,,,,NS,False,
+194369,2026-10-21,2026-10-21 16:00:00,78,Superliga,Poland,2026,7,Kalisz,Chrobry Glogow,687,685,29.0,28.0,12.0,14.0,FT,True,home
+202366,2026-10-21,2026-10-21 16:00:00,49,NB I,Hungary,2026,7,PLER,Eger,447,411,37.0,18.0,15.0,7.0,FT,True,home
+203793,2026-10-21,2026-10-21 16:15:00,75,Elkjop-ligaen,Norway,2026,,Sandefjord TIF,Runar,647,646,30.0,32.0,13.0,18.0,FT,True,away
+198477,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,RK Zagreb,PSG,4445,4484,29.0,28.0,13.0,17.0,FT,True,home
+198485,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Partizan,Porto,4238,778,33.0,33.0,14.0,16.0,FT,True,draw
+198496,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Veszprem,Fuchse Berlin,4616,315,39.0,35.0,20.0,13.0,FT,True,home
+198514,2026-10-21,2026-10-21 16:45:00,131,Champions League,Europe,2026,5,Din. Bucuresti,Skanderborg AGF,829,4429,37.0,23.0,16.0,12.0,FT,True,home
+195736,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Hallby,Savehof,1038,1046,27.0,36.0,15.0,17.0,FT,True,away
+195737,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Hammarby,Alingsas,1039,1035,27.0,24.0,14.0,17.0,FT,True,home
+195739,2026-10-21,2026-10-21 17:00:00,113,Handbollsligan,Sweden,2026,6,Malmo,Lugi,1043,1042,33.0,31.0,19.0,16.0,FT,True,home
+195589,2026-10-21,2026-10-21 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Mors,Bjerringbro/Silkeborg,173,176,21.0,22.0,17.0,19.0,2H,False,
+198506,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Nantes,Vardar 1961,257,1162,8.0,11.0,7.0,10.0,1H,False,
+198523,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Aalborg,Celje,172,929,8.0,5.0,6.0,3.0,1H,False,
+198535,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,HC Kriens,Kielce,1063,4252,8.0,9.0,7.0,7.0,1H,False,
 195738,2026-10-22,2026-10-22 16:30:00,113,Handbollsligan,Sweden,2026,6,Skanela,Karlskrona,1017,1012,,,,,NS,False,
 198501,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,Szeged,GOG,417,178,,,,,NS,False,
 198528,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,MT Melsungen,Wisla Plock,324,694,,,,,NS,False,

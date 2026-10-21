@@ -1,6 +1,12 @@
 {
-  "weights": {},
-  "temperature": 1.0,
+  "weights": {
+    "logreg": 0.23055206768040648,
+    "hgb": 0.18103879460697841,
+    "xgb": 0.19992358215704603,
+    "lgbm": 0.18647120368927766,
+    "cat": 0.2020143518662914
+  },
+  "temperature": 0.75,
   "hardness_alpha": 0.5,
   "half_life_days": 540.0,
   "learners": [
@@ -310,6 +316,20 @@
       "at": "2026-10-21 13:11:22.735261",
       "action": "update_skipped",
       "reason": "only 142 graded predictions (need 150)"
+    },
+    {
+      "at": "2026-10-21 19:05:11.080428",
+      "action": "relearn",
+      "graded": 151,
+      "accuracy_recent": 0.7219,
+      "weights": {
+        "logreg": 0.23055206768040648,
+        "hgb": 0.18103879460697841,
+        "xgb": 0.19992358215704603,
+        "lgbm": 0.18647120368927766,
+        "cat": 0.2020143518662914
+      },
+      "temperature": 0.75
     }
   ]
 }
