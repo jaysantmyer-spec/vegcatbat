@@ -5424,17 +5424,17 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198506,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Nantes,Vardar 1961,257,1162,27.0,33.0,13.0,16.0,FT,True,away
 198523,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,Aalborg,Celje,172,929,34.0,30.0,17.0,13.0,FT,True,home
 198535,2026-10-21,2026-10-21 18:45:00,131,Champions League,Europe,2026,5,HC Kriens,Kielce,1063,4252,30.0,32.0,17.0,19.0,FT,True,away
-195738,2026-10-22,2026-10-22 16:30:00,113,Handbollsligan,Sweden,2026,6,Skanela,Karlskrona,1017,1012,,,,,NS,False,
-198501,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,Szeged,GOG,417,178,,,,,NS,False,
-198528,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,MT Melsungen,Wisla Plock,324,694,,,,,NS,False,
-194987,2026-10-22,2026-10-22 17:00:00,39,Bundesliga,Germany,2026,10,Stuttgart,Bietigheim-Metterzimmern,329,333,,,,,NS,False,
-195740,2026-10-22,2026-10-22 17:00:00,113,Handbollsligan,Sweden,2026,6,Onnereds,Ystads IF,1044,1048,,,,,NS,False,
-195591,2026-10-22,2026-10-22 17:30:00,23,Herre Handbold Ligaen,Denmark,2026,11,Sonderjyske,Nordsjaelland,199,198,,,,,NS,False,
-195588,2026-10-22,2026-10-22 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Kolding,Fredericia,180,177,,,,,NS,False,
-198572,2026-10-22,2026-10-22 18:00:00,103,Liga ASOBAL,Spain,2026,4,Granollers,Cuenca,966,965,,,,,NS,False,
-198503,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Sporting,Kristianstad,791,1041,,,,,NS,False,
-198522,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Barcelona,Montpellier,962,248,,,,,NS,False,
-198538,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Kolstad,SC Magdeburg,639,328,,,,,NS,False,
+195738,2026-10-22,2026-10-22 16:30:00,113,Handbollsligan,Sweden,2026,6,Skanela,Karlskrona,1017,1012,30.0,33.0,15.0,18.0,FT,True,away
+198501,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,Szeged,GOG,417,178,33.0,33.0,17.0,20.0,FT,True,draw
+198528,2026-10-22,2026-10-22 16:45:00,131,Champions League,Europe,2026,5,MT Melsungen,Wisla Plock,324,694,28.0,26.0,15.0,14.0,FT,True,home
+194987,2026-10-22,2026-10-22 17:00:00,39,Bundesliga,Germany,2026,10,Stuttgart,Bietigheim-Metterzimmern,329,333,39.0,29.0,16.0,15.0,FT,True,home
+195740,2026-10-22,2026-10-22 17:00:00,113,Handbollsligan,Sweden,2026,6,Onnereds,Ystads IF,1044,1048,30.0,29.0,11.0,13.0,FT,True,home
+195591,2026-10-22,2026-10-22 17:30:00,23,Herre Handbold Ligaen,Denmark,2026,11,Sonderjyske,Nordsjaelland,199,198,28.0,28.0,14.0,20.0,2H,False,
+195588,2026-10-22,2026-10-22 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Kolding,Fredericia,180,177,22.0,18.0,19.0,13.0,2H,False,
+198572,2026-10-22,2026-10-22 18:00:00,103,Liga ASOBAL,Spain,2026,4,Granollers,Cuenca,966,965,20.0,20.0,18.0,14.0,2H,False,
+198503,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Sporting,Kristianstad,791,1041,13.0,9.0,10.0,7.0,1H,False,
+198522,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Barcelona,Montpellier,962,248,11.0,11.0,9.0,8.0,1H,False,
+198538,2026-10-22,2026-10-22 18:45:00,131,Champions League,Europe,2026,5,Kolstad,SC Magdeburg,639,328,9.0,7.0,7.0,5.0,1H,False,
 194991,2026-10-23,2026-10-23 17:00:00,39,Bundesliga,Germany,2026,10,Goppingen,Eisenach,316,335,,,,,NS,False,
 198592,2026-10-23,2026-10-23 17:00:00,103,Liga ASOBAL,Spain,2026,7,Barcelona,Cuenca,962,965,,,,,NS,False,
 198593,2026-10-23,2026-10-23 17:00:00,103,Liga ASOBAL,Spain,2026,7,CD Bidasoa Irun,Caserio Ciudad Real,964,3414,,,,,NS,False,
