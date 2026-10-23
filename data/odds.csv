@@ -1,152 +1,147 @@
 event_id,sport,commence_time,home,away,bookmaker,odds_home,odds_draw,odds_away,spread_home,spread_home_price,spread_away_price,total,over_price,under_price,fetched_at
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,tipico_de,1.27,10.0,5.0,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,winamax_de,1.29,11.5,4.7,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,unibet_uk,1.29,12.0,4.75,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,winamax_fr,1.24,9.5,4.0,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,nordicbet,1.29,11.0,4.6,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,betclic_fr,1.27,11.0,4.47,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,ladbrokes_uk,1.28,9.5,4.4,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,betsson,1.29,11.0,4.6,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,paddypower,1.25,11.0,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,coral,1.28,9.5,4.4,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,codere_it,1.28,11.0,4.6,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,coolbet,1.28,10.0,5.0,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,casumo,1.3,11.0,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,virginbet,1.3,11.0,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,unibet_nl,1.3,9.5,4.3,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,grosvenor,1.3,11.0,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,livescorebet,1.3,11.0,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,smarkets,1.24,9.8,4.1,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,sport888,1.25,9.5,4.5,,,,,,,2026-10-22 01:05:40.678041
-3040bd6e26e24ed59d392629b03a0dea,handball_germany_bundesliga,2026-10-22 17:00:00,TVB Stuttgart,SG BBM Bietigheim,pinnacle,1.22,,4.08,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,tipico_de,1.65,8.0,2.8,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,winamax_de,1.7,8.0,2.7,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,unibet_uk,1.73,8.0,2.75,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,winamax_fr,1.62,7.0,2.5,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,nordicbet,1.7,8.0,2.7,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,betclic_fr,1.65,7.45,2.58,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,ladbrokes_uk,1.67,7.0,2.62,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,betsson,1.7,8.0,2.7,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,coral,1.67,7.0,2.62,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,codere_it,1.68,7.8,2.65,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,virginbet,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,casumo,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,unibet_nl,1.71,8.0,2.6,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,grosvenor,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,livescorebet,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,coolbet,1.7,8.0,2.75,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,paddypower,1.67,7.5,2.7,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,sport888,1.67,7.5,2.62,,,,,,,2026-10-22 01:05:40.678041
-2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,smarkets,1.62,7.2,2.52,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,tipico_de,1.75,7.5,2.6,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,winamax_de,1.74,7.75,2.65,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,unibet_uk,1.75,8.0,2.7,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,winamax_fr,1.66,7.0,2.45,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,nordicbet,1.74,7.8,2.65,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,betclic_fr,1.68,7.35,2.5,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,ladbrokes_uk,1.7,6.5,2.5,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,betsson,1.74,7.8,2.65,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,coral,1.7,6.5,2.5,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,codere_it,1.72,7.6,2.6,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,virginbet,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,casumo,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,unibet_nl,1.71,8.0,2.6,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,grosvenor,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,livescorebet,1.71,8.5,2.63,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,paddypower,1.73,7.5,2.62,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,coolbet,1.73,8.0,2.65,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,sport888,1.73,7.5,2.5,,,,,,,2026-10-22 01:05:40.678041
-7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,smarkets,1.66,7.0,2.44,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,tipico_de,5.0,10.0,1.27,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,winamax_de,4.9,10.5,1.28,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,unibet_uk,4.75,10.0,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,winamax_fr,4.3,9.0,1.23,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,nordicbet,4.5,9.6,1.29,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,betclic_fr,4.32,9.05,1.27,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,ladbrokes_uk,4.5,8.5,1.28,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,betsson,4.5,9.6,1.29,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,coral,4.5,8.5,1.28,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,virginbet,4.5,11.0,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,casumo,4.5,11.0,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,unibet_nl,4.25,9.5,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,grosvenor,4.5,11.0,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,livescorebet,4.5,11.0,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,codere_it,4.5,9.6,1.29,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,coolbet,4.75,9.5,1.3,,,,,,,2026-10-22 01:05:40.678041
-424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,paddypower,4.5,9.5,1.25,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,tipico_de,5.7,11.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,winamax_de,5.8,10.5,1.23,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,unibet_uk,5.75,11.0,1.23,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,winamax_fr,4.9,9.0,1.19,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,nordicbet,5.4,10.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,betclic_fr,5.1,9.55,1.21,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,ladbrokes_uk,5.5,9.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,betsson,5.4,10.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,coral,5.5,9.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,virginbet,5.6,12.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,casumo,5.6,12.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,unibet_nl,5.3,10.5,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,grosvenor,5.6,12.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,livescorebet,5.6,12.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,codere_it,5.4,10.0,1.22,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,paddypower,5.5,10.0,1.2,,,,,,,2026-10-22 01:05:40.678041
-9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,coolbet,5.75,10.0,1.24,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,tipico_de,4.0,9.5,1.37,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,winamax_de,4.0,10.0,1.37,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,unibet_uk,3.8,10.0,1.4,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,winamax_fr,3.55,8.5,1.31,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,nordicbet,3.75,9.4,1.37,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,betclic_fr,3.58,8.95,1.35,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,ladbrokes_uk,3.7,8.0,1.36,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,betsson,3.75,9.4,1.37,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,coral,3.7,8.0,1.36,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,casumo,3.85,10.5,1.38,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,unibet_nl,3.7,9.5,1.38,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,virginbet,3.85,10.5,1.38,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,grosvenor,3.85,10.5,1.38,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,livescorebet,3.85,10.5,1.38,,,,,,,2026-10-22 01:05:40.678041
-e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,codere_it,3.75,9.4,1.37,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,tipico_de,1.95,7.2,2.3,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,winamax_de,1.86,9.0,2.3,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,unibet_uk,1.91,8.5,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,winamax_fr,1.74,8.0,2.15,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,nordicbet,1.88,8.4,2.22,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,betclic_fr,1.84,8.1,2.16,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,ladbrokes_uk,1.85,7.5,2.2,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,betsson,1.88,8.4,2.22,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,coral,1.85,7.5,2.2,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,virginbet,1.92,8.5,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,unibet_nl,1.92,8.0,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,casumo,1.92,8.5,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,grosvenor,1.92,8.5,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,livescorebet,1.92,8.5,2.25,,,,,,,2026-10-22 01:05:40.678041
-204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,codere_it,1.88,8.4,2.22,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,casumo,1.02,21.0,18.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,unibet_nl,1.02,16.0,14.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,grosvenor,1.02,21.0,18.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,virginbet,1.02,21.0,18.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,livescorebet,1.02,21.0,18.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,coral,1.03,21.0,19.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,nordicbet,1.02,18.0,15.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,betsson,1.02,18.0,15.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,ladbrokes_uk,1.03,21.0,19.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,betclic_fr,1.02,14.75,12.5,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,unibet_uk,1.03,21.0,18.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,winamax_fr,1.01,13.0,11.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,winamax_de,1.02,22.0,19.0,,,,,,,2026-10-22 01:05:40.678041
-6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,codere_it,1.02,18.0,15.0,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,tipico_de,3.0,9.0,1.55,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,winamax_de,3.0,9.0,1.58,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,unibet_uk,3.0,9.0,1.58,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,winamax_fr,2.75,7.75,1.5,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,nordicbet,2.9,8.6,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,betclic_fr,2.82,8.2,1.53,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,ladbrokes_uk,2.87,7.5,1.55,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,betsson,2.9,8.6,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,coral,2.87,7.5,1.55,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,virginbet,3.05,9.0,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,casumo,3.05,9.0,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,unibet_nl,3.0,8.0,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,grosvenor,3.05,9.0,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,livescorebet,3.05,9.0,1.56,,,,,,,2026-10-22 01:05:40.678041
-327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,codere_it,2.9,8.6,1.56,,,,,,,2026-10-22 01:05:40.678041
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,tipico_de,1.65,7.2,2.9,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,winamax_de,1.66,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,unibet_uk,1.67,8.5,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,winamax_fr,1.58,7.25,2.55,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,nordicbet,1.66,8.2,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,betclic_fr,1.64,8.0,2.74,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,ladbrokes_uk,1.65,7.0,2.7,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,betsson,1.66,8.2,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,coral,1.65,7.0,2.7,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,codere_it,1.65,8.2,2.75,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,virginbet,1.63,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,casumo,1.63,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,unibet_nl,1.63,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,grosvenor,1.63,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,livescorebet,1.63,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,coolbet,1.67,8.0,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,paddypower,1.62,7.5,2.8,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,sport888,1.61,7.5,2.75,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,smarkets,1.58,7.4,2.6,,,,,,,2026-10-23 01:10:31.930613
+2a66326d9a944057c832621d694384a0,handball_germany_bundesliga,2026-10-23 17:00:00,Frisch Auf Göppingen,ThSV Eisenach,pinnacle,1.45,,2.71,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,tipico_de,1.8,8.0,2.45,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,winamax_de,1.66,8.5,2.75,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,unibet_uk,1.78,8.0,2.6,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,winamax_fr,1.58,8.0,2.55,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,nordicbet,1.76,8.2,2.6,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,betclic_fr,1.73,7.9,2.52,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,ladbrokes_uk,1.73,7.0,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,betsson,1.76,8.2,2.6,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,coral,1.73,7.0,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,codere_it,1.75,8.0,2.55,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,virginbet,1.76,8.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,casumo,1.76,8.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,unibet_nl,1.76,8.0,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,grosvenor,1.76,8.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,livescorebet,1.76,8.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,paddypower,1.73,7.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,coolbet,1.75,8.0,2.6,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,sport888,1.73,7.5,2.5,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,smarkets,1.67,7.2,2.4,,,,,,,2026-10-23 01:10:31.930613
+7f6c309f25287342ab65c30b741112ae,handball_germany_bundesliga,2026-10-23 18:00:00,TSV Hannover-Burgdorf,TBV Lemgo,pinnacle,1.65,,2.24,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,tipico_de,4.5,10.5,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,winamax_de,4.5,11.5,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,unibet_uk,4.35,11.0,1.33,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,winamax_fr,3.95,9.5,1.25,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,nordicbet,4.3,11.0,1.32,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,betclic_fr,3.95,9.8,1.29,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,ladbrokes_uk,4.2,9.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,betsson,4.3,11.0,1.32,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,coral,4.2,9.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,virginbet,4.5,11.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,casumo,4.5,11.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,unibet_nl,4.25,9.5,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,grosvenor,4.5,11.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,livescorebet,4.5,11.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,codere_it,4.2,10.0,1.31,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,coolbet,4.4,10.0,1.33,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,paddypower,4.33,10.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,smarkets,3.8,9.4,1.27,,,,,,,2026-10-23 01:10:31.930613
+424982f407c0854036bb670758cbc4e8,handball_germany_bundesliga,2026-10-24 16:00:00,HC Erlangen,THW Kiel,sport888,4.33,9.0,1.3,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,tipico_de,3.9,10.0,1.37,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,winamax_de,3.8,10.0,1.4,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,unibet_uk,3.8,10.0,1.4,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,winamax_fr,3.4,8.5,1.34,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,nordicbet,3.95,9.6,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,betclic_fr,3.52,9.15,1.36,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,ladbrokes_uk,3.6,8.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,betsson,3.95,9.6,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,coral,3.6,8.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,virginbet,3.8,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,casumo,3.8,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,unibet_nl,3.75,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,grosvenor,3.8,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,livescorebet,3.8,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,codere_it,3.65,9.6,1.38,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,paddypower,3.75,9.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,coolbet,3.75,9.0,1.42,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,smarkets,3.4,8.8,1.34,,,,,,,2026-10-23 01:10:31.930613
+9e482656de3177845a8a3a437a8ac7f0,handball_germany_bundesliga,2026-10-24 18:00:00,HBW Balingen-Weilstetten,MT Melsungen,sport888,3.5,8.5,1.4,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,tipico_de,3.8,10.5,1.37,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,winamax_de,3.9,11.0,1.37,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,unibet_uk,3.75,10.5,1.4,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,winamax_fr,3.45,9.5,1.32,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,nordicbet,3.6,10.0,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,betclic_fr,3.47,9.45,1.36,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,ladbrokes_uk,3.6,8.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,betsson,3.6,10.0,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,coral,3.6,8.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,casumo,3.85,10.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,unibet_nl,3.7,9.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,virginbet,3.85,10.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,grosvenor,3.85,10.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,livescorebet,3.85,10.5,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,codere_it,3.6,10.0,1.38,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,coolbet,3.85,9.0,1.42,,,,,,,2026-10-23 01:10:31.930613
+e3ce37b7f3ca4b6fcd15ba01cc517407,handball_germany_bundesliga,2026-10-25 14:00:00,Rhein-Neckar Löwen,SC Magdeburg,paddypower,3.75,9.5,1.36,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,tipico_de,2.0,7.5,2.2,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,winamax_de,1.9,8.0,2.35,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,unibet_uk,1.95,8.0,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,winamax_fr,1.78,7.25,2.15,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,nordicbet,1.92,7.6,2.23,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,betclic_fr,1.88,7.3,2.17,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,ladbrokes_uk,1.91,6.5,2.2,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,betsson,1.92,7.6,2.23,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,coral,1.91,6.5,2.2,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,virginbet,1.92,8.5,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,unibet_nl,1.92,8.0,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,casumo,1.92,8.5,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,grosvenor,1.92,8.5,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,livescorebet,1.92,8.5,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,codere_it,1.92,7.6,2.23,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,coolbet,1.95,8.0,2.25,,,,,,,2026-10-23 01:10:31.930613
+204219f706536f0bc56502d56af8f5e7,handball_germany_bundesliga,2026-10-25 15:30:00,Bergischer HC,HSV Hamburg,paddypower,1.91,7.5,2.25,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,casumo,1.02,21.0,18.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,unibet_nl,1.02,16.0,14.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,grosvenor,1.02,21.0,18.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,virginbet,1.02,21.0,18.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,livescorebet,1.02,21.0,18.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,coral,1.04,19.0,15.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,nordicbet,1.04,18.0,12.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,betsson,1.04,18.0,12.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,ladbrokes_uk,1.04,19.0,15.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,betclic_fr,1.03,26.0,10.5,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,unibet_uk,1.04,21.0,14.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,winamax_fr,1.02,13.5,9.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,winamax_de,1.04,22.0,14.5,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,tipico_de,1.02,20.0,17.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,codere_it,1.04,18.0,12.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,paddypower,1.04,23.0,15.0,,,,,,,2026-10-23 01:10:31.930613
+6e12cc86ff50489412bbf1be801b7422,handball_germany_bundesliga,2026-10-25 15:30:00,Füchse Berlin,HSG Wetzlar,coolbet,1.05,18.0,14.0,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,tipico_de,3.0,7.8,1.6,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,winamax_de,2.9,8.0,1.64,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,unibet_uk,2.88,8.0,1.65,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,winamax_fr,2.65,7.25,1.56,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,nordicbet,2.8,8.0,1.62,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,betclic_fr,2.72,7.65,1.58,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,ladbrokes_uk,2.8,7.0,1.61,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,betsson,2.8,8.0,1.62,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,coral,2.8,7.0,1.61,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,virginbet,2.8,8.0,1.63,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,casumo,2.8,8.0,1.63,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,unibet_nl,2.8,8.0,1.63,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,grosvenor,2.8,8.0,1.63,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,livescorebet,2.8,8.0,1.63,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,codere_it,2.8,8.0,1.62,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,coolbet,2.9,8.0,1.64,,,,,,,2026-10-23 01:10:31.930613
+327f6b315142e02e21888a1a31629478,handball_germany_bundesliga,2026-10-25 17:00:00,VfL Gummersbach,SG Flensburg-Handewitt,paddypower,2.88,7.5,1.62,,,,,,,2026-10-23 01:10:31.930613
