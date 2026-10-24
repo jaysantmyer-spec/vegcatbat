@@ -5444,22 +5444,22 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197680,2026-10-23,2026-10-23 18:00:00,34,Starligue,France,2026,8,Chartres,Nimes,252,258,32.0,33.0,15.0,17.0,FT,True,away
 197674,2026-10-23,2026-10-23 18:30:00,34,Starligue,France,2026,8,Tremblay,Cesson Rennes-Metropole,261,242,34.0,29.0,15.0,18.0,FT,True,home
 197676,2026-10-23,2026-10-23 18:30:00,34,Starligue,France,2026,8,Selestat,Caen,288,281,24.0,26.0,12.0,11.0,FT,True,away
-195594,2026-10-24,2026-10-24 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skive,Aalborg,202,172,,,,,NS,False,
-203794,2026-10-24,2026-10-24 13:15:00,75,Elkjop-ligaen,Norway,2026,,Elverum,Arendal,636,629,,,,,NS,False,
-195590,2026-10-24,2026-10-24 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skjern,Ribe-Esbjerg,185,182,,,,,NS,False,
-203795,2026-10-24,2026-10-24 14:00:00,75,Elkjop-ligaen,Norway,2026,,Viking TIF,Drammen,616,635,,,,,NS,False,
-202367,2026-10-24,2026-10-24 15:00:00,49,NB I,Hungary,2026,7,Tatabanya,NEKA,418,416,,,,,NS,False,
-194993,2026-10-24,2026-10-24 16:00:00,39,Bundesliga,Germany,2026,10,Erlangen,Kiel,313,321,,,,,NS,False,
-202368,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Gyor,Szigetszentmiklosi,442,1639,,,,,NS,False,
-202369,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Gyongyosi,Ferencvaros,413,412,,,,,NS,False,
-202370,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Budai Farkasok,Veszprem,438,4616,,,,,NS,False,
-202371,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Balatonfuredi,Csurgoi,407,409,,,,,NS,False,
-197677,2026-10-24,2026-10-24 17:00:00,34,Starligue,France,2026,8,Nantes,Chambery Savoie,257,251,,,,,NS,False,
-198597,2026-10-24,2026-10-24 17:00:00,103,Liga ASOBAL,Spain,2026,7,Nava,Atl. Valladolid,970,960,,,,,NS,False,
-198599,2026-10-24,2026-10-24 17:00:00,103,Liga ASOBAL,Spain,2026,7,Villa de Aranda,Puerto Sagunto,991,986,,,,,NS,False,
-198596,2026-10-24,2026-10-24 17:30:00,103,Liga ASOBAL,Spain,2026,7,La Rioja,Morrazo Cangas,968,969,,,,,NS,False,
-194989,2026-10-24,2026-10-24 18:00:00,39,Bundesliga,Germany,2026,10,HBW Balingen-Weilstetten,MT Melsungen,317,324,,,,,NS,False,
-194371,2026-10-24,2026-10-24 18:30:00,78,Superliga,Poland,2026,8,Chrobry Glogow,Kielce,685,4252,,,,,NS,False,
+195594,2026-10-24,2026-10-24 13:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skive,Aalborg,202,172,26.0,29.0,13.0,13.0,FT,True,away
+203794,2026-10-24,2026-10-24 13:15:00,75,Elkjop-ligaen,Norway,2026,,Elverum,Arendal,636,629,34.0,25.0,19.0,11.0,FT,True,home
+195590,2026-10-24,2026-10-24 14:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skjern,Ribe-Esbjerg,185,182,29.0,24.0,15.0,7.0,FT,True,home
+203795,2026-10-24,2026-10-24 14:00:00,75,Elkjop-ligaen,Norway,2026,,Viking TIF,Drammen,616,635,33.0,26.0,22.0,13.0,FT,True,home
+202367,2026-10-24,2026-10-24 15:00:00,49,NB I,Hungary,2026,7,Tatabanya,NEKA,418,416,30.0,23.0,13.0,12.0,FT,True,home
+194993,2026-10-24,2026-10-24 16:00:00,39,Bundesliga,Germany,2026,10,Erlangen,Kiel,313,321,31.0,36.0,14.0,20.0,FT,True,away
+202368,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Gyor,Szigetszentmiklosi,442,1639,34.0,31.0,16.0,13.0,FT,True,home
+202369,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Gyongyosi,Ferencvaros,413,412,42.0,32.0,25.0,16.0,FT,True,home
+202370,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Budai Farkasok,Veszprem,438,4616,23.0,34.0,11.0,18.0,FT,True,away
+202371,2026-10-24,2026-10-24 16:00:00,49,NB I,Hungary,2026,7,Balatonfuredi,Csurgoi,407,409,23.0,23.0,11.0,14.0,FT,True,draw
+197677,2026-10-24,2026-10-24 17:00:00,34,Starligue,France,2026,8,Nantes,Chambery Savoie,257,251,41.0,29.0,21.0,15.0,FT,True,home
+198597,2026-10-24,2026-10-24 17:00:00,103,Liga ASOBAL,Spain,2026,7,Nava,Atl. Valladolid,970,960,35.0,35.0,15.0,20.0,FT,True,draw
+198599,2026-10-24,2026-10-24 17:00:00,103,Liga ASOBAL,Spain,2026,7,Villa de Aranda,Puerto Sagunto,991,986,27.0,27.0,14.0,16.0,FT,True,draw
+198596,2026-10-24,2026-10-24 17:30:00,103,Liga ASOBAL,Spain,2026,7,La Rioja,Morrazo Cangas,968,969,37.0,30.0,17.0,16.0,2H,False,
+194989,2026-10-24,2026-10-24 18:00:00,39,Bundesliga,Germany,2026,10,HBW Balingen-Weilstetten,MT Melsungen,317,324,12.0,13.0,12.0,13.0,HT,False,
+194371,2026-10-24,2026-10-24 18:30:00,78,Superliga,Poland,2026,8,Chrobry Glogow,Kielce,685,4252,0.0,1.0,0.0,1.0,1H,False,
 198595,2026-10-25,2026-10-25 11:00:00,103,Liga ASOBAL,Spain,2026,7,Horneo Alicante,Ademar,983,957,,,,,NS,False,
 198594,2026-10-25,2026-10-25 11:30:00,103,Liga ASOBAL,Spain,2026,7,Granollers,Puente Genil,966,971,,,,,NS,False,
 195741,2026-10-25,2026-10-25 13:00:00,113,Handbollsligan,Sweden,2026,7,Ystads IF,Hammarby,1048,1039,,,,,NS,False,
