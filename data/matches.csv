@@ -5460,9 +5460,9 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198596,2026-10-24,2026-10-24 17:30:00,103,Liga ASOBAL,Spain,2026,7,La Rioja,Morrazo Cangas,968,969,39.0,32.0,17.0,16.0,FT,True,home
 194989,2026-10-24,2026-10-24 18:00:00,39,Bundesliga,Germany,2026,10,HBW Balingen-Weilstetten,MT Melsungen,317,324,26.0,27.0,12.0,13.0,FT,True,away
 194371,2026-10-24,2026-10-24 18:30:00,78,Superliga,Poland,2026,8,Chrobry Glogow,Kielce,685,4252,34.0,39.0,18.0,21.0,FT,True,away
-198595,2026-10-25,2026-10-25 11:00:00,103,Liga ASOBAL,Spain,2026,7,Horneo Alicante,Ademar,983,957,,,,,NS,False,
-198594,2026-10-25,2026-10-25 11:30:00,103,Liga ASOBAL,Spain,2026,7,Granollers,Puente Genil,966,971,,,,,NS,False,
-195741,2026-10-25,2026-10-25 13:00:00,113,Handbollsligan,Sweden,2026,7,Ystads IF,Hammarby,1048,1039,,,,,NS,False,
+198595,2026-10-25,2026-10-25 11:00:00,103,Liga ASOBAL,Spain,2026,7,Horneo Alicante,Ademar,983,957,32.0,35.0,15.0,16.0,FT,True,away
+198594,2026-10-25,2026-10-25 11:30:00,103,Liga ASOBAL,Spain,2026,7,Granollers,Puente Genil,966,971,31.0,31.0,14.0,17.0,2H,False,
+195741,2026-10-25,2026-10-25 13:00:00,113,Handbollsligan,Sweden,2026,7,Ystads IF,Hammarby,1048,1039,1.0,0.0,,,1H,False,
 194373,2026-10-25,2026-10-25 14:00:00,78,Superliga,Poland,2026,8,Piotrkowianin Piotrkow,Legionowo,689,732,,,,,NS,False,
 194988,2026-10-25,2026-10-25 14:00:00,39,Bundesliga,Germany,2026,10,Rhein-Neckar,SC Magdeburg,327,328,,,,,NS,False,
 195593,2026-10-25,2026-10-25 15:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skanderborg AGF,Holstebro,4429,179,,,,,NS,False,
