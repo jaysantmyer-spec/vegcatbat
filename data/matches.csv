@@ -5461,26 +5461,26 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 194989,2026-10-24,2026-10-24 18:00:00,39,Bundesliga,Germany,2026,10,HBW Balingen-Weilstetten,MT Melsungen,317,324,26.0,27.0,12.0,13.0,FT,True,away
 194371,2026-10-24,2026-10-24 18:30:00,78,Superliga,Poland,2026,8,Chrobry Glogow,Kielce,685,4252,34.0,39.0,18.0,21.0,FT,True,away
 198595,2026-10-25,2026-10-25 11:00:00,103,Liga ASOBAL,Spain,2026,7,Horneo Alicante,Ademar,983,957,32.0,35.0,15.0,16.0,FT,True,away
-198594,2026-10-25,2026-10-25 11:30:00,103,Liga ASOBAL,Spain,2026,7,Granollers,Puente Genil,966,971,31.0,31.0,14.0,17.0,2H,False,
-195741,2026-10-25,2026-10-25 13:00:00,113,Handbollsligan,Sweden,2026,7,Ystads IF,Hammarby,1048,1039,1.0,0.0,,,1H,False,
-194373,2026-10-25,2026-10-25 14:00:00,78,Superliga,Poland,2026,8,Piotrkowianin Piotrkow,Legionowo,689,732,,,,,NS,False,
-194988,2026-10-25,2026-10-25 14:00:00,39,Bundesliga,Germany,2026,10,Rhein-Neckar,SC Magdeburg,327,328,,,,,NS,False,
-195593,2026-10-25,2026-10-25 15:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skanderborg AGF,Holstebro,4429,179,,,,,NS,False,
-195742,2026-10-25,2026-10-25 15:00:00,113,Handbollsligan,Sweden,2026,7,Karlskrona,Kristianstad,1012,1041,,,,,NS,False,
-197675,2026-10-25,2026-10-25 15:00:00,34,Starligue,France,2026,8,St. Raphael,PSG,259,4484,,,,,NS,False,
-195743,2026-10-25,2026-10-25 15:15:00,113,Handbollsligan,Sweden,2026,7,Amo HK,Malmo,1009,1043,,,,,NS,False,
-194992,2026-10-25,2026-10-25 15:30:00,39,Bundesliga,Germany,2026,10,Fuchse Berlin,HSG Wetzlar,315,318,,,,,NS,False,
-194994,2026-10-25,2026-10-25 15:30:00,39,Bundesliga,Germany,2026,10,Bergischer,Hamburg,312,319,,,,,NS,False,
-195744,2026-10-25,2026-10-25 15:30:00,113,Handbollsligan,Sweden,2026,7,Skanela,Savehof,1017,1046,,,,,NS,False,
-195745,2026-10-25,2026-10-25 16:00:00,113,Handbollsligan,Sweden,2026,7,Lugi,Skovde,1042,1047,,,,,NS,False,
-197678,2026-10-25,2026-10-25 16:00:00,34,Starligue,France,2026,8,Montpellier,Saran,248,245,,,,,NS,False,
-203796,2026-10-25,2026-10-25 16:00:00,75,Elkjop-ligaen,Norway,2026,,Sandnes,Bergen,611,2067,,,,,NS,False,
-195746,2026-10-25,2026-10-25 16:30:00,113,Handbollsligan,Sweden,2026,7,Alingsas,Onnereds,1035,1044,,,,,NS,False,
-194374,2026-10-25,2026-10-25 17:00:00,78,Superliga,Poland,2026,8,Slask Wroclaw,MMTS Kwidzyn,4225,688,,,,,NS,False,
-194990,2026-10-25,2026-10-25 17:00:00,39,Bundesliga,Germany,2026,10,Gummersbach,Flensburg-H.,339,314,,,,,NS,False,
-195592,2026-10-25,2026-10-25 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Ringsted,GOG,183,178,,,,,NS,False,
-198598,2026-10-25,2026-10-25 17:00:00,103,Liga ASOBAL,Spain,2026,7,Torrelavega,Proin Sevilla,972,5010,,,,,NS,False,
-202372,2026-10-25,2026-10-25 17:00:00,49,NB I,Hungary,2026,7,Szeged,Dabas,417,410,,,,,NS,False,
-203797,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Fjellhammer,Bergsoy,637,1168,,,,,NS,False,
-203798,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Follo,Kristiansand,608,640,,,,,NS,False,
+198594,2026-10-25,2026-10-25 11:30:00,103,Liga ASOBAL,Spain,2026,7,Granollers,Puente Genil,966,971,32.0,31.0,14.0,17.0,FT,True,home
+195741,2026-10-25,2026-10-25 13:00:00,113,Handbollsligan,Sweden,2026,7,Ystads IF,Hammarby,1048,1039,26.0,24.0,12.0,9.0,FT,True,home
+194373,2026-10-25,2026-10-25 14:00:00,78,Superliga,Poland,2026,8,Piotrkowianin Piotrkow,Legionowo,689,732,27.0,31.0,17.0,14.0,FT,True,away
+194988,2026-10-25,2026-10-25 14:00:00,39,Bundesliga,Germany,2026,10,Rhein-Neckar,SC Magdeburg,327,328,23.0,31.0,12.0,16.0,FT,True,away
+195593,2026-10-25,2026-10-25 15:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Skanderborg AGF,Holstebro,4429,179,31.0,27.0,14.0,13.0,FT,True,home
+195742,2026-10-25,2026-10-25 15:00:00,113,Handbollsligan,Sweden,2026,7,Karlskrona,Kristianstad,1012,1041,28.0,30.0,17.0,12.0,FT,True,away
+197675,2026-10-25,2026-10-25 15:00:00,34,Starligue,France,2026,8,St. Raphael,PSG,259,4484,28.0,42.0,13.0,22.0,FT,True,away
+195743,2026-10-25,2026-10-25 15:15:00,113,Handbollsligan,Sweden,2026,7,Amo HK,Malmo,1009,1043,33.0,40.0,12.0,24.0,FT,True,away
+194992,2026-10-25,2026-10-25 15:30:00,39,Bundesliga,Germany,2026,10,Fuchse Berlin,HSG Wetzlar,315,318,36.0,30.0,18.0,14.0,FT,True,home
+194994,2026-10-25,2026-10-25 15:30:00,39,Bundesliga,Germany,2026,10,Bergischer,Hamburg,312,319,26.0,25.0,13.0,11.0,FT,True,home
+195744,2026-10-25,2026-10-25 15:30:00,113,Handbollsligan,Sweden,2026,7,Skanela,Savehof,1017,1046,29.0,30.0,12.0,17.0,FT,True,away
+195745,2026-10-25,2026-10-25 16:00:00,113,Handbollsligan,Sweden,2026,7,Lugi,Skovde,1042,1047,32.0,35.0,14.0,20.0,FT,True,away
+197678,2026-10-25,2026-10-25 16:00:00,34,Starligue,France,2026,8,Montpellier,Saran,248,245,31.0,25.0,17.0,14.0,FT,True,home
+203796,2026-10-25,2026-10-25 16:00:00,75,Elkjop-ligaen,Norway,2026,,Sandnes,Bergen,611,2067,26.0,35.0,14.0,19.0,FT,True,away
+195746,2026-10-25,2026-10-25 16:30:00,113,Handbollsligan,Sweden,2026,7,Alingsas,Onnereds,1035,1044,32.0,30.0,14.0,13.0,FT,True,home
+194374,2026-10-25,2026-10-25 17:00:00,78,Superliga,Poland,2026,8,Slask Wroclaw,MMTS Kwidzyn,4225,688,30.0,27.0,15.0,11.0,FT,True,home
+194990,2026-10-25,2026-10-25 17:00:00,39,Bundesliga,Germany,2026,10,Gummersbach,Flensburg-H.,339,314,31.0,30.0,14.0,11.0,FT,True,home
+195592,2026-10-25,2026-10-25 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,11,Ringsted,GOG,183,178,26.0,28.0,11.0,17.0,FT,True,away
+198598,2026-10-25,2026-10-25 17:00:00,103,Liga ASOBAL,Spain,2026,7,Torrelavega,Proin Sevilla,972,5010,37.0,33.0,18.0,15.0,FT,True,home
+202372,2026-10-25,2026-10-25 17:00:00,49,NB I,Hungary,2026,7,Szeged,Dabas,417,410,44.0,31.0,22.0,13.0,FT,True,home
+203797,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Fjellhammer,Bergsoy,637,1168,32.0,21.0,14.0,13.0,FT,True,home
+203798,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Follo,Kristiansand,608,640,28.0,35.0,18.0,18.0,FT,True,away
 195747,2026-10-26,2026-10-26 18:00:00,113,Handbollsligan,Sweden,2026,7,Helsingborg,Hallby,1011,1038,,,,,NS,False,
