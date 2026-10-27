@@ -5483,4 +5483,15 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 202372,2026-10-25,2026-10-25 17:00:00,49,NB I,Hungary,2026,7,Szeged,Dabas,417,410,44.0,31.0,22.0,13.0,FT,True,home
 203797,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Fjellhammer,Bergsoy,637,1168,32.0,21.0,14.0,13.0,FT,True,home
 203798,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Follo,Kristiansand,608,640,28.0,35.0,18.0,18.0,FT,True,away
-195747,2026-10-26,2026-10-26 18:00:00,113,Handbollsligan,Sweden,2026,7,Helsingborg,Hallby,1011,1038,,,,,NS,False,
+195747,2026-10-26,2026-10-26 18:00:00,113,Handbollsligan,Sweden,2026,7,Helsingborg,Hallby,1011,1038,39.0,32.0,19.0,20.0,FT,True,home
+198484,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Porto,Veszprem,778,4616,,,,,NS,False,
+198491,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Vardar 1961,MT Melsungen,1162,324,,,,,NS,False,
+198493,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Wisla Plock,Nantes,694,257,,,,,NS,False,
+195748,2026-10-28,2026-10-28 18:00:00,113,Handbollsligan,Sweden,2026,8,Hammarby,Malmo,1039,1043,,,,,NS,False,
+195749,2026-10-28,2026-10-28 18:45:00,113,Handbollsligan,Sweden,2026,8,Savehof,Amo HK,1046,1009,,,,,NS,False,
+195750,2026-10-28,2026-10-28 19:00:00,113,Handbollsligan,Sweden,2026,8,Onnereds,Lugi,1044,1042,,,,,NS,False,
+194376,2026-10-28,2026-10-28 19:15:00,78,Superliga,Poland,2026,8,Wybrzeze Gdansk,Kalisz,695,687,,,,,NS,False,
+198480,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,PSG,Aalborg,4484,172,,,,,NS,False,
+198488,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,SC Magdeburg,HC Kriens,328,1063,,,,,NS,False,
+198516,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Celje,RK Zagreb,929,4445,,,,,NS,False,
+198540,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Kielce,Kolstad,4252,639,,,,,NS,False,
