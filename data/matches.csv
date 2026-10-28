@@ -5484,14 +5484,25 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 203797,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Fjellhammer,Bergsoy,637,1168,32.0,21.0,14.0,13.0,FT,True,home
 203798,2026-10-25,2026-10-25 17:00:00,75,Elkjop-ligaen,Norway,2026,,Follo,Kristiansand,608,640,28.0,35.0,18.0,18.0,FT,True,away
 195747,2026-10-26,2026-10-26 18:00:00,113,Handbollsligan,Sweden,2026,7,Helsingborg,Hallby,1011,1038,39.0,32.0,19.0,20.0,FT,True,home
-198484,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Porto,Veszprem,778,4616,,,,,NS,False,
-198491,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Vardar 1961,MT Melsungen,1162,324,,,,,NS,False,
-198493,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Wisla Plock,Nantes,694,257,,,,,NS,False,
-195748,2026-10-28,2026-10-28 18:00:00,113,Handbollsligan,Sweden,2026,8,Hammarby,Malmo,1039,1043,,,,,NS,False,
-195749,2026-10-28,2026-10-28 18:45:00,113,Handbollsligan,Sweden,2026,8,Savehof,Amo HK,1046,1009,,,,,NS,False,
-195750,2026-10-28,2026-10-28 19:00:00,113,Handbollsligan,Sweden,2026,8,Onnereds,Lugi,1044,1042,,,,,NS,False,
-194376,2026-10-28,2026-10-28 19:15:00,78,Superliga,Poland,2026,8,Wybrzeze Gdansk,Kalisz,695,687,,,,,NS,False,
-198480,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,PSG,Aalborg,4484,172,,,,,NS,False,
-198488,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,SC Magdeburg,HC Kriens,328,1063,,,,,NS,False,
-198516,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Celje,RK Zagreb,929,4445,,,,,NS,False,
-198540,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Kielce,Kolstad,4252,639,,,,,NS,False,
+198484,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Porto,Veszprem,778,4616,29.0,34.0,15.0,17.0,FT,True,away
+198491,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Vardar 1961,MT Melsungen,1162,324,26.0,26.0,14.0,12.0,FT,True,draw
+198493,2026-10-28,2026-10-28 17:45:00,131,Champions League,Europe,2026,6,Wisla Plock,Nantes,694,257,33.0,27.0,15.0,13.0,FT,True,home
+195748,2026-10-28,2026-10-28 18:00:00,113,Handbollsligan,Sweden,2026,8,Hammarby,Malmo,1039,1043,37.0,37.0,19.0,19.0,FT,True,draw
+195749,2026-10-28,2026-10-28 18:45:00,113,Handbollsligan,Sweden,2026,8,Savehof,Amo HK,1046,1009,21.0,31.0,12.0,16.0,FT,True,away
+195750,2026-10-28,2026-10-28 19:00:00,113,Handbollsligan,Sweden,2026,8,Onnereds,Lugi,1044,1042,37.0,32.0,19.0,13.0,FT,True,home
+194376,2026-10-28,2026-10-28 19:15:00,78,Superliga,Poland,2026,8,Wybrzeze Gdansk,Kalisz,695,687,27.0,28.0,11.0,14.0,FT,True,away
+198480,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,PSG,Aalborg,4484,172,32.0,25.0,15.0,11.0,FT,True,home
+198488,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,SC Magdeburg,HC Kriens,328,1063,36.0,29.0,18.0,11.0,FT,True,home
+198516,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Celje,RK Zagreb,929,4445,32.0,38.0,16.0,16.0,FT,True,away
+198540,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Kielce,Kolstad,4252,639,40.0,35.0,19.0,16.0,FT,True,home
+194375,2026-10-29,2026-10-29 17:00:00,78,Superliga,Poland,2026,8,Stal Mielec,Ostrow Wielkopolski,690,739,,,,,NS,False,
+198510,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,GOG,Sporting,178,791,,,,,NS,False,
+198511,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Fuchse Berlin,Partizan,315,4238,,,,,NS,False,
+198527,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Kristianstad,Szeged,1041,417,,,,,NS,False,
+194999,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Goppingen,Gummersbach,316,339,,,,,NS,False,
+195001,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Flensburg-H.,HBW Balingen-Weilstetten,314,317,,,,,NS,False,
+195751,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,9,Alingsas,Hallby,1035,1038,,,,,NS,False,
+195752,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Skovde,Skanela,1047,1017,,,,,NS,False,
+195753,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Ystads IF,Helsingborg,1048,1011,,,,,NS,False,
+198481,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Skanderborg AGF,Barcelona,4429,962,,,,,NS,False,
+198531,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Montpellier,Din. Bucuresti,248,829,,,,,NS,False,
