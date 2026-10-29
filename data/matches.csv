@@ -5495,14 +5495,28 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 198488,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,SC Magdeburg,HC Kriens,328,1063,36.0,29.0,18.0,11.0,FT,True,home
 198516,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Celje,RK Zagreb,929,4445,32.0,38.0,16.0,16.0,FT,True,away
 198540,2026-10-28,2026-10-28 19:45:00,131,Champions League,Europe,2026,6,Kielce,Kolstad,4252,639,40.0,35.0,19.0,16.0,FT,True,home
-194375,2026-10-29,2026-10-29 17:00:00,78,Superliga,Poland,2026,8,Stal Mielec,Ostrow Wielkopolski,690,739,,,,,NS,False,
-198510,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,GOG,Sporting,178,791,,,,,NS,False,
-198511,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Fuchse Berlin,Partizan,315,4238,,,,,NS,False,
-198527,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Kristianstad,Szeged,1041,417,,,,,NS,False,
-194999,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Goppingen,Gummersbach,316,339,,,,,NS,False,
-195001,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Flensburg-H.,HBW Balingen-Weilstetten,314,317,,,,,NS,False,
-195751,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,9,Alingsas,Hallby,1035,1038,,,,,NS,False,
-195752,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Skovde,Skanela,1047,1017,,,,,NS,False,
-195753,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Ystads IF,Helsingborg,1048,1011,,,,,NS,False,
-198481,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Skanderborg AGF,Barcelona,4429,962,,,,,NS,False,
-198531,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Montpellier,Din. Bucuresti,248,829,,,,,NS,False,
+194375,2026-10-29,2026-10-29 17:00:00,78,Superliga,Poland,2026,8,Stal Mielec,Ostrow Wielkopolski,690,739,25.0,40.0,16.0,18.0,FT,True,away
+198510,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,GOG,Sporting,178,791,35.0,37.0,11.0,16.0,FT,True,away
+198511,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Fuchse Berlin,Partizan,315,4238,40.0,33.0,17.0,18.0,FT,True,home
+198527,2026-10-29,2026-10-29 17:45:00,131,Champions League,Europe,2026,6,Kristianstad,Szeged,1041,417,26.0,31.0,12.0,17.0,FT,True,away
+194999,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Goppingen,Gummersbach,316,339,25.0,33.0,12.0,15.0,FT,True,away
+195001,2026-10-29,2026-10-29 18:00:00,39,Bundesliga,Germany,2026,11,Flensburg-H.,HBW Balingen-Weilstetten,314,317,31.0,25.0,16.0,11.0,FT,True,home
+195751,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,9,Alingsas,Hallby,1035,1038,33.0,22.0,15.0,13.0,FT,True,home
+195752,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Skovde,Skanela,1047,1017,43.0,28.0,23.0,11.0,FT,True,home
+195753,2026-10-29,2026-10-29 18:00:00,113,Handbollsligan,Sweden,2026,8,Ystads IF,Helsingborg,1048,1011,37.0,22.0,17.0,8.0,FT,True,home
+198481,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Skanderborg AGF,Barcelona,4429,962,27.0,30.0,14.0,15.0,FT,True,away
+198531,2026-10-29,2026-10-29 19:45:00,131,Champions League,Europe,2026,6,Montpellier,Din. Bucuresti,248,829,26.0,36.0,16.0,16.0,FT,True,away
+194372,2026-10-30,2026-10-30 17:00:00,78,Superliga,Poland,2026,8,Gwardia Opole,Wisla Plock,686,694,,,,,NS,False,
+203799,2026-10-30,2026-10-30 17:15:00,75,Elkjop-ligaen,Norway,2026,,Drammen,Elverum,635,636,,,,,NS,False,
+195595,2026-10-30,2026-10-30 17:30:00,23,Herre Handbold Ligaen,Denmark,2026,12,Bjerringbro/Silkeborg,Kolding,176,180,,,,,NS,False,
+195597,2026-10-30,2026-10-30 17:30:00,23,Herre Handbold Ligaen,Denmark,2026,12,Skjern,Skive,185,202,,,,,NS,False,
+195003,2026-10-30,2026-10-30 18:00:00,39,Bundesliga,Germany,2026,11,Bietigheim-Metterzimmern,Erlangen,333,313,,,,,NS,False,
+198605,2026-10-30,2026-10-30 18:00:00,103,Liga ASOBAL,Spain,2026,8,Caserio Ciudad Real,La Rioja,3414,968,,,,,NS,False,
+195000,2026-10-30,2026-10-30 19:00:00,39,Bundesliga,Germany,2026,11,Hamburg,Rhein-Neckar,319,327,,,,,NS,False,
+197683,2026-10-30,2026-10-30 19:00:00,34,Starligue,France,2026,9,Chambery Savoie,St. Raphael,251,259,,,,,NS,False,
+197684,2026-10-30,2026-10-30 19:00:00,34,Starligue,France,2026,9,Dunkerque,Provence Aix,254,4858,,,,,NS,False,
+197685,2026-10-30,2026-10-30 19:00:00,34,Starligue,France,2026,9,Nimes,Selestat,258,288,,,,,NS,False,
+197687,2026-10-30,2026-10-30 19:00:00,34,Starligue,France,2026,9,Saran,Tremblay,245,261,,,,,NS,False,
+197688,2026-10-30,2026-10-30 19:00:00,34,Starligue,France,2026,9,Toulouse,Limoges,260,256,,,,,NS,False,
+197681,2026-10-30,2026-10-30 19:30:00,34,Starligue,France,2026,9,Caen,Chartres,281,252,,,,,NS,False,
+198606,2026-10-30,2026-10-30 19:30:00,103,Liga ASOBAL,Spain,2026,8,Atl. Valladolid,Torrelavega,960,972,,,,,NS,False,
