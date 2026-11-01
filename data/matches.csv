@@ -5550,10 +5550,10 @@ match_id,date,start_time,league_id,league,country,season,round,home,away,home_id
 197686,2026-11-01,2026-11-01 16:00:00,34,Starligue,France,2026,9,PSG,Montpellier,4484,248,33.0,23.0,17.0,13.0,FT,True,home
 203803,2026-11-01,2026-11-01 16:00:00,75,Elkjop-ligaen,Norway,2026,,Kristiansand,Viking TIF,640,616,30.0,31.0,12.0,14.0,FT,True,away
 203804,2026-11-01,2026-11-01 16:00:00,75,Elkjop-ligaen,Norway,2026,,Runar,Fjellhammer,646,637,24.0,27.0,14.0,14.0,FT,True,away
-194972,2026-11-01,2026-11-01 17:00:00,39,Bundesliga,Germany,2026,8,Gummersbach,HBW Balingen-Weilstetten,339,317,16.0,16.0,16.0,16.0,HT,False,
-195599,2026-11-01,2026-11-01 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Holstebro,Ringsted,179,183,26.0,18.0,23.0,16.0,2H,False,
-198600,2026-11-01,2026-11-01 17:00:00,103,Liga ASOBAL,Spain,2026,8,Morrazo Cangas,Horneo Alicante,969,983,11.0,18.0,11.0,18.0,HT,False,
-203805,2026-11-01,2026-11-01 17:00:00,75,Elkjop-ligaen,Norway,2026,,Kolstad,Sandefjord TIF,639,647,23.0,20.0,19.0,17.0,2H,False,
-195600,2026-11-01,2026-11-01 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Ribe-Esbjerg,Aalborg,182,172,,,,,NS,False,
-198604,2026-11-01,2026-11-01 18:00:00,103,Liga ASOBAL,Spain,2026,8,Granollers,Barcelona,966,962,,,,,NS,False,
-195596,2026-11-01,2026-11-01 19:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Fredericia,Mors,177,173,,,,,NS,False,
+194972,2026-11-01,2026-11-01 17:00:00,39,Bundesliga,Germany,2026,8,Gummersbach,HBW Balingen-Weilstetten,339,317,39.0,29.0,16.0,16.0,FT,True,home
+195599,2026-11-01,2026-11-01 17:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Holstebro,Ringsted,179,183,43.0,30.0,23.0,16.0,FT,True,home
+198600,2026-11-01,2026-11-01 17:00:00,103,Liga ASOBAL,Spain,2026,8,Morrazo Cangas,Horneo Alicante,969,983,27.0,31.0,11.0,18.0,FT,True,away
+203805,2026-11-01,2026-11-01 17:00:00,75,Elkjop-ligaen,Norway,2026,,Kolstad,Sandefjord TIF,639,647,38.0,30.0,19.0,17.0,FT,True,home
+195600,2026-11-01,2026-11-01 18:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Ribe-Esbjerg,Aalborg,182,172,30.0,32.0,16.0,17.0,FT,True,away
+198604,2026-11-01,2026-11-01 18:00:00,103,Liga ASOBAL,Spain,2026,8,Granollers,Barcelona,966,962,25.0,36.0,16.0,20.0,FT,True,away
+195596,2026-11-01,2026-11-01 19:00:00,23,Herre Handbold Ligaen,Denmark,2026,12,Fredericia,Mors,177,173,27.0,29.0,16.0,14.0,FT,True,away
